@@ -149,7 +149,7 @@ Compute composite scores
 
 All outputs go to the results/ folder.'
 
-single model run:
+Single Module run:
 ```
 python run_pipeline.py --models [Chosen Module] --archive-run
 python plot_individual_results.py
