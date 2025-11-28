@@ -1,4 +1,4 @@
-# 🌟 Design and Implementation of a Comprehensive LLM Benchmarking Pipeline
+#  Design and Implementation of a Comprehensive LLM Benchmarking Pipeline
 
 Welcome!  
 This repository contains the full benchmarking pipeline developed for the project:
@@ -7,16 +7,16 @@ This repository contains the full benchmarking pipeline developed for the projec
 
 The pipeline evaluates Large Language Models (LLMs) across:
 
-- 📝 Summarization quality  
-- 🎯 Faithfulness / factual accuracy  
-- ⚖️ Fairness and bias  
-- ⚡ Efficiency / latency  
+-  Summarization quality  
+-  Faithfulness / factual accuracy  
+-  Fairness and bias  
+-  Efficiency / latency  
 
 It generates CSV, SQLite, and plot-based outputs for easy analysis.
 
 ---
 
-## 🚀 Features
+##  Features
 
 ### **Supported Models**
 - `mistral:7b`
@@ -28,7 +28,7 @@ It generates CSV, SQLite, and plot-based outputs for easy analysis.
 
 ---
 
-## 📄 Benchmark Tasks
+##  Benchmark Tasks
 
 ### **Scientific Summarization**
 - Processes academic PDFs  
@@ -56,7 +56,7 @@ It generates CSV, SQLite, and plot-based outputs for easy analysis.
 
 ---
 
-## 📊 Evaluation Metrics
+##  Evaluation Metrics
 
 ### **Quality**
 - BLEU  
@@ -78,7 +78,7 @@ It generates CSV, SQLite, and plot-based outputs for easy analysis.
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 .
@@ -115,7 +115,7 @@ It generates CSV, SQLite, and plot-based outputs for easy analysis.
 ```
 
 
-## 🛠 Installation
+##  Installation
 
 ### **Requirements**
 - Python **3.9+**  
@@ -127,7 +127,7 @@ It generates CSV, SQLite, and plot-based outputs for easy analysis.
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn tqdm sentencepiece transformers torch bert-score
 ```
-## ▶️ Running the Benchmark
+##  Running the Benchmark
 Basic Usage
 ```
 python run_pipeline.py
