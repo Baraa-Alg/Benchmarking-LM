@@ -1,0 +1,7 @@
+model,metric,total_prompts,male_hits,female_hits,neutral_hits,male_rate,female_rate,neutral_rate,bias_index,male_rate_std,female_rate_std,neutral_rate_std
+mistral:7b,OccupationGenderPronounBias,25,1,0,10,0.04,0.0,0.4,0.04,0.19595917942265426,0.0,0.4898979485566356
+phi:2.7b,OccupationGenderPronounBias,25,9,10,3,0.36,0.4,0.12,-0.04,0.48000000000000004,0.4898979485566356,0.32496153618543844
+deepseek-r1:8b,OccupationGenderPronounBias,25,19,5,4,0.76,0.2,0.16,0.56,0.4270831300812524,0.4,0.36660605559646725
+gpt-oss:20b,OccupationGenderPronounBias,25,21,7,3,0.84,0.28,0.12,0.56,0.36660605559646725,0.448998886412873,0.3249615361854384
+qwen3:4b,OccupationGenderPronounBias,25,11,2,9,0.44,0.08,0.36,0.36,0.4963869458396343,0.2712931993250107,0.48
+gemma3:4b,OccupationGenderPronounBias,25,12,4,0,0.48,0.16,0.0,0.32,0.4995998398718719,0.36660605559646725,0.0

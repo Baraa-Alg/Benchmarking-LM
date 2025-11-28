@@ -1,0 +1,13 @@
+model,bias_type,type_accuracy,total
+mistral:7b,Implicit,0.92,100
+mistral:7b,None,0.0,100
+phi:2.7b,Implicit,0.43,100
+phi:2.7b,None,0.0,100
+deepseek-r1:8b,Implicit,0.56,100
+deepseek-r1:8b,None,0.16,100
+gpt-oss:20b,Implicit,0.42,100
+gpt-oss:20b,None,0.07,100
+qwen3:4b,Implicit,0.61,100
+qwen3:4b,None,0.19,100
+gemma3:4b,Implicit,0.32,100
+gemma3:4b,None,0.0,100

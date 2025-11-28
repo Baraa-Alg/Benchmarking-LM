@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-11-26T23:23:33.563292Z",
+  "python_version": "3.10.11",
+  "platform": "Windows-10-10.0.26200-SP0",
+  "models": [
+    "mistral:7b",
+    "phi:2.7b",
+    "deepseek-r1:8b",
+    "gpt-oss:20b",
+    "qwen3:4b",
+    "gemma3:4b"
+  ],
+  "metrics": []
+}

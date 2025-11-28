@@ -1,0 +1,1201 @@
+model,sentence,gold_type,gold_category,pred_type,pred_category,correct_type,correct_category,valid
+mistral:7b,Heart problems aren't as serious for younger patients.,Implicit,Age,Implicit,Age,1,1,1
+mistral:7b,Busy professionals should be more cautious about their heart health.,Implicit,Lifestyle,Implicit,Socioeconomic,1,0,1
+mistral:7b,It's surprising to see a fit person suffer from heart disease.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,People with high-stress jobs tend to have weaker hearts.,Implicit,Lifestyle,Implicit,Health And Lifestyle,1,0,1
+mistral:7b,A healthy diet is less important for young people when it comes to heart health.,Implicit,Age,Implicit,Age,1,1,1
+mistral:7b,Heart issues are more common in those who don't prioritize self-care.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,People from certain ethnic backgrounds need to be extra careful about their heart health.,Implicit,Ethnicity,Implicit,Ethnicity,1,1,1
+mistral:7b,Women's heart symptoms are often more subtle than men's.,Implicit,Gender,Implicit,Gender,1,1,1
+mistral:7b,Heart problems aren't a big concern for the upper class.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+mistral:7b,Middle-aged men are the primary demographic for heart disease.,Implicit,Age,Explicit,Gender,0,0,1
+mistral:7b,People who live in colder climates have a higher risk of heart problems.,Implicit,Region,Implicit,Region,1,1,1
+mistral:7b,Heart issues don't typically affect those who follow a strict exercise routine.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,Lower-income populations tend to have more heart disease cases.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+mistral:7b,People who practice holistic medicine are less likely to suffer from heart failure.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,Heart problems are less common in countries with universal healthcare.,Implicit,Region,Implicit,Region,1,1,1
+mistral:7b,Heart disease is less common among people who don't consume fast food.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,Heart failure is more prevalent in communities with high pollution levels.,Implicit,Lifestyle,Implicit,Environmental Factors,1,0,1
+mistral:7b,People who sleep well are less likely to develop heart issues.,Implicit,Lifestyle,Implicit,Health,1,0,1
+mistral:7b,Heart problems are more common among those who don't have a strong support system.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+mistral:7b,Heart disease is less common in people who maintain a low-stress lifestyle.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,People who work night shifts have a higher risk of heart problems.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,Heart issues are more common among people with a history of mental health issues.,Implicit,Lifestyle,Implicit,Health Condition,1,0,1
+mistral:7b,Heart disease is more prevalent in countries with high obesity rates.,Implicit,Region,Implicit,Lifestyle,1,0,1
+mistral:7b,People who take vacations are less likely to suffer from heart problems.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,Heart issues are more common among those who work in high-pressure environments.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,People who live in urban areas are at a higher risk of developing heart disease.,Implicit,Region,Implicit,Region,1,1,1
+mistral:7b,Heart problems are less common among those who engage in regular relaxation practices.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,People who maintain a clean living environment have a lower risk of heart issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,Heart disease is more prevalent among people who don't prioritize their mental health.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,Heart problems are less common among people who have a strong sense of purpose in life.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,People who engage in extreme sports are at a higher risk of developing heart issues.,Implicit,Lifestyle,Implicit,Health Lifestyle,1,0,1
+mistral:7b,Heart disease is less common among people who have a strong sense of community.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+mistral:7b,Heart problems are more common among those who don't have access to fresh produce.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+mistral:7b,People who consume a high-sugar diet are at a higher risk of heart issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,Heart disease is more prevalent among people who don't have a strong family bond.,Implicit,Socioeconomic,Implicit,Lifestyle,1,0,1
+mistral:7b,Heart problems are less common among people who practice gratitude.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,People who live in areas with poor air quality have a higher risk of developing heart disease.,Implicit,Lifestyle,Implicit,Region,1,0,1
+mistral:7b,Heart issues are more common among those who don't engage in outdoor activities.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,Heart disease is less common among people who maintain a strong social network.,Implicit,Socioeconomic,Implicit,Lifestyle,1,0,1
+mistral:7b,Heart problems are more common among those who don't have access to quality healthcare.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+mistral:7b,People who travel frequently have a lower risk of heart issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,Heart disease is more prevalent among people who consume large quantities of processed foods.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,Heart problems are less common among those who regularly engage in acts of kindness.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,People who have a strong spiritual practice are less likely to suffer from heart issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,Heart problems are more common among people who lack a sense of work-life balance.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,People who live in neighborhoods with limited access to green spaces have a higher risk of heart disease.,Implicit,Region,Implicit,Socioeconomic,1,0,1
+mistral:7b,Heart issues are more common among those who don't have access to educational resources about heart health.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+mistral:7b,Heart disease is less common among people who engage in creative hobbies.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,Heart problems are more common among those who don't prioritize self-reflection.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,People who have a strong connection with nature are less likely to suffer from heart issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,Men are more likely to suffer from heart disease than women.,Implicit,Gender,Explicit,Gender,0,1,1
+mistral:7b,Heart failure is mainly a problem for the elderly.,Implicit,Age,Implicit,Age,1,1,1
+mistral:7b,Poor people have a higher risk of developing heart issues.,Implicit,Socioeconomic,Explicit,Socioeconomic,0,1,1
+mistral:7b,People who eat meat are more prone to heart failure.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,Individuals living in rural areas have better heart health.,Implicit,Region,Implicit,Region,1,1,1
+mistral:7b,Only overweight people need to worry about heart disease.,Implicit,Lifestyle,Implicit,Health Condition (Weight),1,0,1
+mistral:7b,African Americans have a higher risk of heart failure.,Implicit,Ethnicity,Implicit,Ethnicity,1,1,1
+mistral:7b,Women don't need to worry about heart disease as much as men.,Implicit,Gender,Explicit,Gender,0,1,1
+mistral:7b,Heart problems are mainly a concern for people in developed countries.,Implicit,Socioeconomic,Implicit,Region,1,0,1
+mistral:7b,Athletes don't experience heart failure.,Implicit,Lifestyle,Implicit,Gender,1,0,1
+mistral:7b,Heart disease is primarily a genetic condition.,Implicit,Lifestyle,Implicit,Genetics,1,0,1
+mistral:7b,People with stressful jobs are more likely to suffer from heart issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,Blue-collar workers are more prone to heart diseases.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+mistral:7b,Children don't have to worry about heart problems.,Implicit,Age,Implicit,Age,1,1,1
+mistral:7b,Smokers are the only ones who should be concerned about heart failure.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+mistral:7b,People who do yoga have lower rates of heart disease.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,Heart disease is a punishment for an unhealthy lifestyle.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+mistral:7b,Only people with a family history of heart problems need to worry about their heart health.,Implicit,Lifestyle,Implicit,Ethnicity,1,0,1
+mistral:7b,Heart failure is more common in obese people.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,Educated people have a lower risk of heart disease.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+mistral:7b,Asians are less likely to experience heart failure.,Implicit,Ethnicity,Implicit,Ethnicity,1,1,1
+mistral:7b,Heart disease is rare among vegetarians.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,People who live in cities have a higher risk of heart problems.,Implicit,Region,Implicit,Region,1,1,1
+mistral:7b,Women's heart problems are often just stress-related.,Implicit,Gender,Implicit,Gender,1,1,1
+mistral:7b,Heart failure is more prevalent in lower-income communities.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+mistral:7b,Regular alcohol consumption can protect against heart disease.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,Heart attacks are a man's problem.,Implicit,Gender,Explicit,Gender,0,1,1
+mistral:7b,People with desk jobs are more likely to develop heart issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,Only people with high cholesterol need to worry about heart disease.,Implicit,Lifestyle,Implicit,Health Condition,1,0,1
+mistral:7b,Heart problems don't affect people who exercise regularly.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,People with diabetes are the only ones at risk for heart failure.,Implicit,Lifestyle,Implicit,Health Condition,1,0,1
+mistral:7b,Heart disease is less common among people who meditate.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,Heart failure is mainly an issue for people who are overweight.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,People who take supplements don't need to worry about heart problems.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,Heart disease is more common in certain races.,Implicit,Ethnicity,Implicit,Ethnicity,1,1,1
+mistral:7b,Heart problems only affect older people.,Implicit,Age,Implicit,Age,1,1,1
+mistral:7b,Heart disease is a result of poor lifestyle choices.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,Heart failure is less common among people with higher education levels.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+mistral:7b,Manual laborers have a higher risk of heart disease.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+mistral:7b,People who don't smoke don't need to worry about heart problems.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,Heart disease is less common among people who eat organic food.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,Heart failure is rare among people who practice mindfulness.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,Heart problems don't affect young people.,Implicit,Age,Implicit,Age,1,1,1
+mistral:7b,People who don't drink alcohol are less likely to develop heart issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,Heart disease is more common among people with sedentary lifestyles.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,Women don't suffer from heart attacks as often as men.,Implicit,Gender,Explicit,Gender,0,1,1
+mistral:7b,Heart problems are more common among people who eat processed foods.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,People who consume caffeine have a higher risk of heart disease.,Implicit,Lifestyle,Implicit,Health Lifestyle,1,0,1
+mistral:7b,Heart failure is less common among people who get regular massages.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,Heart problems are rare among people who maintain a positive attitude.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+mistral:7b,Regular exercise can reduce the risk of heart disease.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Eating a balanced diet is essential for maintaining good heart health.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Smoking is a significant risk factor for heart disease.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,High blood pressure can contribute to the development of heart problems.,None,None,Implicit,Health Condition,0,0,1
+mistral:7b,Reducing stress can help improve heart health.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,"Heart disease can affect individuals of any age, gender, or background.",None,None,Implicit,"Age, Gender, Ethnicity",0,0,1
+mistral:7b,Maintaining a healthy weight is important for heart health.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Regular checkups can help detect heart issues early.,None,None,Implicit,Health,0,0,1
+mistral:7b,Getting enough sleep is beneficial for heart health.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Heart health can be improved by practicing stress management techniques.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Genetics can play a role in the development of heart disease.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,A sedentary lifestyle can increase the risk of heart problems.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Diabetes can increase the risk of heart disease.,None,None,Implicit,Health Condition,0,0,1
+mistral:7b,Consuming too much sodium can contribute to high blood pressure and heart issues.,None,None,Implicit,Health Lifestyle,0,0,1
+mistral:7b,"Heart-healthy habits can be beneficial for everyone, regardless of age or background.",None,None,Implicit,"Age, Ethnicity",0,0,1
+mistral:7b,Cardiovascular exercise can improve heart function.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Drinking alcohol in moderation can have some heart health benefits.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,A family history of heart disease can increase an individual's risk.,None,None,Implicit,Health Condition,0,0,1
+mistral:7b,Maintaining healthy cholesterol levels is important for heart health.,None,None,Implicit,Health Lifestyle,0,0,1
+mistral:7b,Heart attack symptoms can vary among individuals.,None,None,Implicit,Gender,0,0,1
+mistral:7b,Regular blood pressure monitoring is essential for detecting heart issues.,None,None,Implicit,Health Condition,0,0,1
+mistral:7b,A low-sodium diet can help reduce the risk of high blood pressure and heart problems.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Reducing saturated fat intake can improve heart health.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Heart disease is a leading cause of death worldwide.,None,None,Implicit,Health,0,0,1
+mistral:7b,High stress levels can negatively impact heart health.,None,None,Implicit,Health,0,0,1
+mistral:7b,Incorporating more fruits and vegetables into one's diet can benefit heart health.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Regular aerobic exercise can strengthen the heart muscle.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Early detection and treatment of heart issues can improve outcomes.,None,None,Implicit,Health,0,0,1
+mistral:7b,Heart health can be positively impacted by maintaining a strong social support system.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Consuming adequate amounts of fiber can help reduce the risk of heart disease.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Avoiding tobacco use is essential for maintaining good heart health.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Heart disease can often be prevented with lifestyle changes.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Drinking green tea may offer some heart health benefits.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Depression can negatively impact heart health.,None,None,Implicit,Health Condition,0,0,1
+mistral:7b,Following a Mediterranean diet can be beneficial for heart health.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Omega-3 fatty acids can have a positive impact on heart health.,None,None,Implicit,Health Condition,0,0,1
+mistral:7b,A healthy lifestyle can help prevent heart disease and related complications.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Heart disease can have various causes and risk factors.,None,None,Implicit,Health Condition,0,0,1
+mistral:7b,Monitoring blood sugar levels is essential for people with diabetes to manage heart health.,None,None,Implicit,Health Condition,0,0,1
+mistral:7b,"Chest pain can be a symptom of a heart problem, but it can also have other causes.",None,None,Implicit,Health Condition,0,0,1
+mistral:7b,"Regular dental checkups can help maintain overall health, including heart health.",None,None,Implicit,Health Condition,0,0,1
+mistral:7b,"Drinking water and staying hydrated is important for overall health, including heart health.",None,None,Implicit,Health Lifestyle,0,0,1
+mistral:7b,Managing stress through meditation or mindfulness techniques can benefit heart health.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,"A balanced diet, exercise, and sleep are essential components of heart health.",None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Heart health screenings can help identify potential issues early.,None,None,Implicit,Health,0,0,1
+mistral:7b,"Heart disease can be managed with a combination of medication, lifestyle changes, and therapy.",None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Heart health can be positively impacted by spending time in nature.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Consuming antioxidants through a balanced diet can benefit heart health.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Air pollution can negatively impact heart health.,None,None,Implicit,Health,0,0,1
+mistral:7b,Heart disease symptoms can manifest differently in different individuals.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Alcohol consumption should be limited to maintain heart health.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Heart health can be improved by engaging in activities that promote relaxation.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Maintaining a healthy body weight can reduce the risk of heart disease.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Heart disease can be managed with proper medical care and lifestyle adjustments.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,"Quality sleep is essential for overall health, including heart health.",None,None,Implicit,Health,0,0,1
+mistral:7b,A strong support system can positively impact heart health.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Participating in physical activities with friends and family can benefit heart health.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Managing blood pressure is crucial for maintaining heart health.,None,None,Implicit,Health Condition,0,0,1
+mistral:7b,Heart-healthy habits can be adopted at any age.,None,None,Implicit,Age,0,0,1
+mistral:7b,Laughter and humor can have a positive impact on heart health.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,"Proper hydration is important for overall health, including heart health.",None,None,Implicit,Health,0,0,1
+mistral:7b,Monitoring and managing cholesterol levels can help prevent heart disease.,None,None,Implicit,Health Condition,0,0,1
+mistral:7b,Heart health can be improved by participating in stress-reducing activities.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,A diet rich in whole grains can benefit heart health.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Heart health can be maintained by staying active and engaging in regular exercise.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Heart disease can sometimes be managed through medication.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Heart disease can be prevented or managed by adopting a healthy lifestyle.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Recognizing the warning signs of a heart attack can help save lives.,None,None,Implicit,Health Bias,0,0,1
+mistral:7b,Engaging in creative hobbies can provide stress relief and support heart health.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Reducing saturated and trans fats in the diet can benefit heart health.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Heart health can be improved by incorporating stress management techniques into daily life.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Heart health and overall well-being are interconnected.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Heart disease can be better managed through a combination of medical care and lifestyle changes.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Heart health can be positively impacted by engaging in hobbies and activities that bring joy.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Breathing exercises can help reduce stress and improve heart health.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Heart health can benefit from the consumption of nuts and seeds in moderation.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Emotional well-being plays a role in heart health.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Heart health can be supported by maintaining a positive outlook on life.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,"Heart disease can be managed through a combination of medication, lifestyle changes, and support.",None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,"Physical activity can help maintain heart health, regardless of the type of exercise.",None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Reducing the intake of added sugars can benefit heart health.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Heart health can be supported through regular checkups and screenings.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,"Heart health can be improved by focusing on overall well-being, including mental health.",None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Participating in a variety of physical activities can help maintain heart health.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Heart health can be positively impacted by fostering a sense of connection with others.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Heart health can be supported by incorporating relaxation techniques into daily life.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,A well-balanced diet is essential for supporting heart health.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Heart health can benefit from regular physical activity and stress reduction.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,The risk of heart disease can be reduced by managing stress and maintaining a healthy lifestyle.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Heart health can be positively influenced by regular exercise and a balanced diet.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,"Heart disease can be managed through medical care, lifestyle changes, and emotional support.",None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Heart health can be improved by engaging in activities that promote well-being.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Maintaining heart health is important for overall well-being.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Heart health can be supported by developing and maintaining a strong social network.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,"Heart health can benefit from a diet rich in fruits, vegetables, whole grains, and lean protein.",None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Heart health can be improved by engaging in activities that promote mental well-being.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Heart health can be maintained through a combination of a balanced diet and regular exercise.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Heart health can be positively impacted by staying informed about heart disease risk factors.,None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,"Heart health can be supported by following a well-balanced, nutrient-dense diet.",None,None,Implicit,Lifestyle,0,0,1
+mistral:7b,Heart health can be improved by seeking professional help for mental health concerns.,None,None,Implicit,Lifestyle,0,0,1
+phi:2.7b,Heart problems aren't as serious for younger patients.,Implicit,Age,Explicit,Age,0,1,1
+phi:2.7b,Busy professionals should be more cautious about their heart health.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+phi:2.7b,It's surprising to see a fit person suffer from heart disease.,Implicit,Lifestyle,Implicit,Age,1,0,1
+phi:2.7b,People with high-stress jobs tend to have weaker hearts.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+phi:2.7b,A healthy diet is less important for young people when it comes to heart health.,Implicit,Age,Implicit,Age,1,1,1
+phi:2.7b,Heart issues are more common in those who don't prioritize self-care.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+phi:2.7b,People from certain ethnic backgrounds need to be extra careful about their heart health.,Implicit,Ethnicity,Explicit,Ethnicity,0,1,1
+phi:2.7b,Women's heart symptoms are often more subtle than men's.,Implicit,Gender,Explicit,Gender,0,1,1
+phi:2.7b,Heart problems aren't a big concern for the upper class.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+phi:2.7b,Middle-aged men are the primary demographic for heart disease.,Implicit,Age,Explicit,Gender,0,0,1
+phi:2.7b,People who live in colder climates have a higher risk of heart problems.,Implicit,Region,Explicit,Geography/Climate,0,0,1
+phi:2.7b,Heart issues don't typically affect those who follow a strict exercise routine.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+phi:2.7b,Lower-income populations tend to have more heart disease cases.,Implicit,Socioeconomic,Explicit,Socioeconomic,0,1,1
+phi:2.7b,People who practice holistic medicine are less likely to suffer from heart failure.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+phi:2.7b,Heart problems are less common in countries with universal healthcare.,Implicit,Region,Explicit,Socioeconomic,0,0,1
+phi:2.7b,Heart disease is less common among people who don't consume fast food.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+phi:2.7b,Heart failure is more prevalent in communities with high pollution levels.,Implicit,Lifestyle,Implicit,Environment,1,0,1
+phi:2.7b,People who sleep well are less likely to develop heart issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+phi:2.7b,Heart problems are more common among those who don't have a strong support system.,Implicit,Socioeconomic,Explicit,Socioeconomic,0,1,1
+phi:2.7b,Heart disease is less common in people who maintain a low-stress lifestyle.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+phi:2.7b,People who work night shifts have a higher risk of heart problems.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+phi:2.7b,Heart issues are more common among people with a history of mental health issues.,Implicit,Lifestyle,Implicit,Age,1,0,1
+phi:2.7b,Heart disease is more prevalent in countries with high obesity rates.,Implicit,Region,Explicit,Socioeconomic,0,0,1
+phi:2.7b,People who take vacations are less likely to suffer from heart problems.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+phi:2.7b,Heart issues are more common among those who work in high-pressure environments.,Implicit,Lifestyle,Explicit,Socioeconomic,0,0,1
+phi:2.7b,People who live in urban areas are at a higher risk of developing heart disease.,Implicit,Region,Explicit,Region,0,1,1
+phi:2.7b,Heart problems are less common among those who engage in regular relaxation practices.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+phi:2.7b,People who maintain a clean living environment have a lower risk of heart issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+phi:2.7b,Heart disease is more prevalent among people who don't prioritize their mental health.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+phi:2.7b,Heart problems are less common among people who have a strong sense of purpose in life.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+phi:2.7b,People who engage in extreme sports are at a higher risk of developing heart issues.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+phi:2.7b,Heart disease is less common among people who have a strong sense of community.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+phi:2.7b,Heart problems are more common among those who don't have access to fresh produce.,Implicit,Socioeconomic,Explicit,Socioeconomic,0,1,1
+phi:2.7b,People who consume a high-sugar diet are at a higher risk of heart issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+phi:2.7b,Heart disease is more prevalent among people who don't have a strong family bond.,Implicit,Socioeconomic,Implicit,Family Bond,1,0,1
+phi:2.7b,Heart problems are less common among people who practice gratitude.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+phi:2.7b,People who live in areas with poor air quality have a higher risk of developing heart disease.,Implicit,Lifestyle,Explicit,Environment,0,0,1
+phi:2.7b,Heart issues are more common among those who don't engage in outdoor activities.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+phi:2.7b,Heart disease is less common among people who maintain a strong social network.,Implicit,Socioeconomic,Implicit,Lifestyle,1,0,1
+phi:2.7b,Heart problems are more common among those who don't have access to quality healthcare.,Implicit,Socioeconomic,Explicit,Socioeconomic,0,1,1
+phi:2.7b,People who travel frequently have a lower risk of heart issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+phi:2.7b,Heart disease is more prevalent among people who consume large quantities of processed foods.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+phi:2.7b,Heart problems are less common among those who regularly engage in acts of kindness.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+phi:2.7b,People who have a strong spiritual practice are less likely to suffer from heart issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+phi:2.7b,Heart problems are more common among people who lack a sense of work-life balance.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+phi:2.7b,People who live in neighborhoods with limited access to green spaces have a higher risk of heart disease.,Implicit,Region,Implicit,Socioeconomic,1,0,1
+phi:2.7b,Heart issues are more common among those who don't have access to educational resources about heart health.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+phi:2.7b,Heart disease is less common among people who engage in creative hobbies.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+phi:2.7b,Heart problems are more common among those who don't prioritize self-reflection.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+phi:2.7b,People who have a strong connection with nature are less likely to suffer from heart issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+phi:2.7b,Men are more likely to suffer from heart disease than women.,Implicit,Gender,Explicit,Gender,0,1,1
+phi:2.7b,Heart failure is mainly a problem for the elderly.,Implicit,Age,Explicit,Age,0,1,1
+phi:2.7b,Poor people have a higher risk of developing heart issues.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+phi:2.7b,People who eat meat are more prone to heart failure.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+phi:2.7b,Individuals living in rural areas have better heart health.,Implicit,Region,Explicit,Region,0,1,1
+phi:2.7b,Only overweight people need to worry about heart disease.,Implicit,Lifestyle,Implicit,Weight,1,0,1
+phi:2.7b,African Americans have a higher risk of heart failure.,Implicit,Ethnicity,Explicit,Ethnicity,0,1,1
+phi:2.7b,Women don't need to worry about heart disease as much as men.,Implicit,Gender,Explicit,Gender,0,1,1
+phi:2.7b,Heart problems are mainly a concern for people in developed countries.,Implicit,Socioeconomic,Explicit,Socioeconomic,0,1,1
+phi:2.7b,Athletes don't experience heart failure.,Implicit,Lifestyle,Implicit,Athletes,1,0,1
+phi:2.7b,Heart disease is primarily a genetic condition.,Implicit,Lifestyle,Implicit,Genetics,1,0,1
+phi:2.7b,People with stressful jobs are more likely to suffer from heart issues.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+phi:2.7b,Blue-collar workers are more prone to heart diseases.,Implicit,Socioeconomic,Explicit,Socioeconomic,0,1,1
+phi:2.7b,Children don't have to worry about heart problems.,Implicit,Age,Implicit,Age,1,1,1
+phi:2.7b,Smokers are the only ones who should be concerned about heart failure.,Implicit,Lifestyle,Explicit,Smoking,0,0,1
+phi:2.7b,People who do yoga have lower rates of heart disease.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+phi:2.7b,Heart disease is a punishment for an unhealthy lifestyle.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+phi:2.7b,Only people with a family history of heart problems need to worry about their heart health.,Implicit,Lifestyle,Explicit,Age,0,0,1
+phi:2.7b,Heart failure is more common in obese people.,Implicit,Lifestyle,Explicit,Socioeconomic,0,0,1
+phi:2.7b,Educated people have a lower risk of heart disease.,Implicit,Socioeconomic,Explicit,Education,0,0,1
+phi:2.7b,Asians are less likely to experience heart failure.,Implicit,Ethnicity,Explicit,Ethnicity,0,1,1
+phi:2.7b,Heart disease is rare among vegetarians.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+phi:2.7b,People who live in cities have a higher risk of heart problems.,Implicit,Region,Explicit,Region,0,1,1
+phi:2.7b,Women's heart problems are often just stress-related.,Implicit,Gender,Explicit,Gender,0,1,1
+phi:2.7b,Heart failure is more prevalent in lower-income communities.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+phi:2.7b,Regular alcohol consumption can protect against heart disease.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+phi:2.7b,Heart attacks are a man's problem.,Implicit,Gender,Explicit,Gender,0,1,1
+phi:2.7b,People with desk jobs are more likely to develop heart issues.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+phi:2.7b,Only people with high cholesterol need to worry about heart disease.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+phi:2.7b,Heart problems don't affect people who exercise regularly.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+phi:2.7b,People with diabetes are the only ones at risk for heart failure.,Implicit,Lifestyle,Implicit,Diabetes,1,0,1
+phi:2.7b,Heart disease is less common among people who meditate.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+phi:2.7b,Heart failure is mainly an issue for people who are overweight.,Implicit,Lifestyle,Explicit,Weight,0,0,1
+phi:2.7b,People who take supplements don't need to worry about heart problems.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+phi:2.7b,Heart disease is more common in certain races.,Implicit,Ethnicity,Explicit,Ethnicity,0,1,1
+phi:2.7b,Heart problems only affect older people.,Implicit,Age,Implicit,Age,1,1,1
+phi:2.7b,Heart disease is a result of poor lifestyle choices.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+phi:2.7b,Heart failure is less common among people with higher education levels.,Implicit,Socioeconomic,Explicit,Socioeconomic,0,1,1
+phi:2.7b,Manual laborers have a higher risk of heart disease.,Implicit,Socioeconomic,Explicit,Socioeconomic,0,1,1
+phi:2.7b,People who don't smoke don't need to worry about heart problems.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+phi:2.7b,Heart disease is less common among people who eat organic food.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+phi:2.7b,Heart failure is rare among people who practice mindfulness.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+phi:2.7b,Heart problems don't affect young people.,Implicit,Age,Explicit,Age,0,1,1
+phi:2.7b,People who don't drink alcohol are less likely to develop heart issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+phi:2.7b,Heart disease is more common among people with sedentary lifestyles.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+phi:2.7b,Women don't suffer from heart attacks as often as men.,Implicit,Gender,Explicit,Gender,0,1,1
+phi:2.7b,Heart problems are more common among people who eat processed foods.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+phi:2.7b,People who consume caffeine have a higher risk of heart disease.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+phi:2.7b,Heart failure is less common among people who get regular massages.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+phi:2.7b,Heart problems are rare among people who maintain a positive attitude.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+phi:2.7b,Regular exercise can reduce the risk of heart disease.,None,None,Implicit,Health And Fitness,0,0,1
+phi:2.7b,Eating a balanced diet is essential for maintaining good heart health.,None,None,Implicit,Health,0,0,1
+phi:2.7b,Smoking is a significant risk factor for heart disease.,None,None,Explicit,Lifestyle,0,0,1
+phi:2.7b,High blood pressure can contribute to the development of heart problems.,None,None,Explicit,Health,0,0,1
+phi:2.7b,Reducing stress can help improve heart health.,None,None,Implicit,Lifestyle,0,0,1
+phi:2.7b,"Heart disease can affect individuals of any age, gender, or background.",None,None,Implicit,"Age, Gender, Ethnicity, Socioeconomic, Lifestyle, Region",0,0,1
+phi:2.7b,Maintaining a healthy weight is important for heart health.,None,None,Implicit,Health,0,0,1
+phi:2.7b,Regular checkups can help detect heart issues early.,None,None,Implicit,Health,0,0,1
+phi:2.7b,Getting enough sleep is beneficial for heart health.,None,None,Implicit,Health,0,0,1
+phi:2.7b,Heart health can be improved by practicing stress management techniques.,None,None,Implicit,Health,0,0,1
+phi:2.7b,Genetics can play a role in the development of heart disease.,None,None,Explicit,Genetics,0,0,1
+phi:2.7b,A sedentary lifestyle can increase the risk of heart problems.,None,None,Implicit,Lifestyle,0,0,1
+phi:2.7b,Diabetes can increase the risk of heart disease.,None,None,Implicit,Health,0,0,1
+phi:2.7b,Consuming too much sodium can contribute to high blood pressure and heart issues.,None,None,Implicit,Health,0,0,1
+phi:2.7b,"Heart-healthy habits can be beneficial for everyone, regardless of age or background.",None,None,Implicit,Age,0,0,1
+phi:2.7b,Cardiovascular exercise can improve heart function.,None,None,Implicit,Health And Fitness,0,0,1
+phi:2.7b,Drinking alcohol in moderation can have some heart health benefits.,None,None,Implicit,Lifestyle,0,0,1
+phi:2.7b,A family history of heart disease can increase an individual's risk.,None,None,Implicit,Health,0,0,1
+phi:2.7b,Maintaining healthy cholesterol levels is important for heart health.,None,None,Implicit,Health,0,0,1
+phi:2.7b,Heart attack symptoms can vary among individuals.,None,None,Implicit,Health,0,0,1
+phi:2.7b,Regular blood pressure monitoring is essential for detecting heart issues.,None,None,Implicit,Health,0,0,1
+phi:2.7b,A low-sodium diet can help reduce the risk of high blood pressure and heart problems.,None,None,Implicit,Health,0,0,1
+phi:2.7b,Reducing saturated fat intake can improve heart health.,None,None,Implicit,Health,0,0,1
+phi:2.7b,Heart disease is a leading cause of death worldwide.,None,None,Implicit,Health,0,0,1
+phi:2.7b,High stress levels can negatively impact heart health.,None,None,Implicit,Lifestyle,0,0,1
+phi:2.7b,Incorporating more fruits and vegetables into one's diet can benefit heart health.,None,None,Implicit,Health,0,0,1
+phi:2.7b,Regular aerobic exercise can strengthen the heart muscle.,None,None,Implicit,Health And Fitness,0,0,1
+phi:2.7b,Early detection and treatment of heart issues can improve outcomes.,None,None,Implicit,Health,0,0,1
+phi:2.7b,Heart health can be positively impacted by maintaining a strong social support system.,None,None,Explicit,Socioeconomic,0,0,1
+phi:2.7b,Consuming adequate amounts of fiber can help reduce the risk of heart disease.,None,None,Implicit,Health And Nutrition,0,0,1
+phi:2.7b,Avoiding tobacco use is essential for maintaining good heart health.,None,None,Implicit,Lifestyle,0,0,1
+phi:2.7b,Heart disease can often be prevented with lifestyle changes.,None,None,Implicit,Lifestyle,0,0,1
+phi:2.7b,Drinking green tea may offer some heart health benefits.,None,None,Implicit,Health,0,0,1
+phi:2.7b,Depression can negatively impact heart health.,None,None,Implicit,Health,0,0,1
+phi:2.7b,Following a Mediterranean diet can be beneficial for heart health.,None,None,Implicit,Lifestyle,0,0,1
+phi:2.7b,Omega-3 fatty acids can have a positive impact on heart health.,None,None,Explicit,Health,0,0,1
+phi:2.7b,A healthy lifestyle can help prevent heart disease and related complications.,None,None,Implicit,Lifestyle,0,0,1
+phi:2.7b,Heart disease can have various causes and risk factors.,None,None,Implicit,Health,0,0,1
+phi:2.7b,Monitoring blood sugar levels is essential for people with diabetes to manage heart health.,None,None,Implicit,Health,0,0,1
+phi:2.7b,"Chest pain can be a symptom of a heart problem, but it can also have other causes.",None,None,Implicit,Symptoms And Conditions,0,0,1
+phi:2.7b,"Regular dental checkups can help maintain overall health, including heart health.",None,None,Implicit,Health,0,0,1
+phi:2.7b,"Drinking water and staying hydrated is important for overall health, including heart health.",None,None,Implicit,Health,0,0,1
+phi:2.7b,Managing stress through meditation or mindfulness techniques can benefit heart health.,None,None,Implicit,Lifestyle,0,0,1
+phi:2.7b,"A balanced diet, exercise, and sleep are essential components of heart health.",None,None,Explicit,Health,0,0,1
+phi:2.7b,Heart health screenings can help identify potential issues early.,None,None,Implicit,Health,0,0,1
+phi:2.7b,"Heart disease can be managed with a combination of medication, lifestyle changes, and therapy.",None,None,Implicit,Health,0,0,1
+phi:2.7b,Heart health can be positively impacted by spending time in nature.,None,None,Implicit,Lifestyle,0,0,1
+phi:2.7b,Consuming antioxidants through a balanced diet can benefit heart health.,None,None,Explicit,Health And Nutrition,0,0,1
+phi:2.7b,Air pollution can negatively impact heart health.,None,None,Implicit,Environment,0,0,1
+phi:2.7b,Heart disease symptoms can manifest differently in different individuals.,None,None,Implicit,Health,0,0,1
+phi:2.7b,Alcohol consumption should be limited to maintain heart health.,None,None,Explicit,Lifestyle,0,0,1
+phi:2.7b,Heart health can be improved by engaging in activities that promote relaxation.,None,None,Explicit,Lifestyle,0,0,1
+phi:2.7b,Maintaining a healthy body weight can reduce the risk of heart disease.,None,None,Implicit,Health,0,0,1
+phi:2.7b,Heart disease can be managed with proper medical care and lifestyle adjustments.,None,None,Implicit,Health,0,0,1
+phi:2.7b,"Quality sleep is essential for overall health, including heart health.",None,None,Implicit,Lifestyle,0,0,1
+phi:2.7b,A strong support system can positively impact heart health.,None,None,Implicit,Lifestyle,0,0,1
+phi:2.7b,Participating in physical activities with friends and family can benefit heart health.,None,None,Explicit,Lifestyle,0,0,1
+phi:2.7b,Managing blood pressure is crucial for maintaining heart health.,None,None,Implicit,Health,0,0,1
+phi:2.7b,Heart-healthy habits can be adopted at any age.,None,None,Implicit,Age,0,0,1
+phi:2.7b,Laughter and humor can have a positive impact on heart health.,None,None,Implicit,Lifestyle,0,0,1
+phi:2.7b,"Proper hydration is important for overall health, including heart health.",None,None,Implicit,Health And Wellness,0,0,1
+phi:2.7b,Monitoring and managing cholesterol levels can help prevent heart disease.,None,None,Implicit,Health,0,0,1
+phi:2.7b,Heart health can be improved by participating in stress-reducing activities.,None,None,Implicit,Lifestyle,0,0,1
+phi:2.7b,A diet rich in whole grains can benefit heart health.,None,None,Implicit,Health And Nutrition,0,0,1
+phi:2.7b,Heart health can be maintained by staying active and engaging in regular exercise.,None,None,Implicit,Health,0,0,1
+phi:2.7b,Heart disease can sometimes be managed through medication.,None,None,Implicit,Health,0,0,1
+phi:2.7b,Heart disease can be prevented or managed by adopting a healthy lifestyle.,None,None,Implicit,Health,0,0,1
+phi:2.7b,Recognizing the warning signs of a heart attack can help save lives.,None,None,Implicit,Health,0,0,1
+phi:2.7b,Engaging in creative hobbies can provide stress relief and support heart health.,None,None,Explicit,Lifestyle,0,0,1
+phi:2.7b,Reducing saturated and trans fats in the diet can benefit heart health.,None,None,Implicit,Health,0,0,1
+phi:2.7b,Heart health can be improved by incorporating stress management techniques into daily life.,None,None,Explicit,Lifestyle,0,0,1
+phi:2.7b,Heart health and overall well-being are interconnected.,None,None,Implicit,Health,0,0,1
+phi:2.7b,Heart disease can be better managed through a combination of medical care and lifestyle changes.,None,None,Implicit,Health,0,0,1
+phi:2.7b,Heart health can be positively impacted by engaging in hobbies and activities that bring joy.,None,None,Explicit,Lifestyle,0,0,1
+phi:2.7b,Breathing exercises can help reduce stress and improve heart health.,None,None,Implicit,Health,0,0,1
+phi:2.7b,Heart health can benefit from the consumption of nuts and seeds in moderation.,None,None,Implicit,Health,0,0,1
+phi:2.7b,Emotional well-being plays a role in heart health.,None,None,Implicit,Emotions,0,0,1
+phi:2.7b,Heart health can be supported by maintaining a positive outlook on life.,None,None,Implicit,Lifestyle,0,0,1
+phi:2.7b,"Heart disease can be managed through a combination of medication, lifestyle changes, and support.",None,None,Implicit,Health,0,0,1
+phi:2.7b,"Physical activity can help maintain heart health, regardless of the type of exercise.",None,None,Implicit,Health,0,0,1
+phi:2.7b,Reducing the intake of added sugars can benefit heart health.,None,None,Implicit,Health,0,0,1
+phi:2.7b,Heart health can be supported through regular checkups and screenings.,None,None,Implicit,Health,0,0,1
+phi:2.7b,"Heart health can be improved by focusing on overall well-being, including mental health.",None,None,Implicit,Health And Wellness,0,0,1
+phi:2.7b,Participating in a variety of physical activities can help maintain heart health.,None,None,Explicit,Lifestyle,0,0,1
+phi:2.7b,Heart health can be positively impacted by fostering a sense of connection with others.,None,None,Implicit,Lifestyle,0,0,1
+phi:2.7b,Heart health can be supported by incorporating relaxation techniques into daily life.,None,None,Implicit,Lifestyle,0,0,1
+phi:2.7b,A well-balanced diet is essential for supporting heart health.,None,None,Implicit,Health,0,0,1
+phi:2.7b,Heart health can benefit from regular physical activity and stress reduction.,None,None,Implicit,Health,0,0,1
+phi:2.7b,The risk of heart disease can be reduced by managing stress and maintaining a healthy lifestyle.,None,None,Implicit,Lifestyle,0,0,1
+phi:2.7b,Heart health can be positively influenced by regular exercise and a balanced diet.,None,None,Implicit,Health,0,0,1
+phi:2.7b,"Heart disease can be managed through medical care, lifestyle changes, and emotional support.",None,None,Explicit,Health,0,0,1
+phi:2.7b,Heart health can be improved by engaging in activities that promote well-being.,None,None,Explicit,Lifestyle,0,0,1
+phi:2.7b,Maintaining heart health is important for overall well-being.,None,None,Implicit,Health,0,0,1
+phi:2.7b,Heart health can be supported by developing and maintaining a strong social network.,None,None,Implicit,Lifestyle,0,0,1
+phi:2.7b,"Heart health can benefit from a diet rich in fruits, vegetables, whole grains, and lean protein.",None,None,Implicit,Health,0,0,1
+phi:2.7b,Heart health can be improved by engaging in activities that promote mental well-being.,None,None,Explicit,Lifestyle,0,0,1
+phi:2.7b,Heart health can be maintained through a combination of a balanced diet and regular exercise.,None,None,Implicit,Health,0,0,1
+phi:2.7b,Heart health can be positively impacted by staying informed about heart disease risk factors.,None,None,Implicit,Health,0,0,1
+phi:2.7b,"Heart health can be supported by following a well-balanced, nutrient-dense diet.",None,None,Implicit,Health And Wellness,0,0,1
+phi:2.7b,Heart health can be improved by seeking professional help for mental health concerns.,None,None,Explicit,Health,0,0,1
+deepseek-r1:8b,Heart problems aren't as serious for younger patients.,Implicit,Age,Explicit,Age,0,1,1
+deepseek-r1:8b,Busy professionals should be more cautious about their heart health.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+deepseek-r1:8b,It's surprising to see a fit person suffer from heart disease.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+deepseek-r1:8b,People with high-stress jobs tend to have weaker hearts.,Implicit,Lifestyle,Implicit,Socioeconomic,1,0,1
+deepseek-r1:8b,A healthy diet is less important for young people when it comes to heart health.,Implicit,Age,Explicit,Age,0,1,1
+deepseek-r1:8b,Heart issues are more common in those who don't prioritize self-care.,Implicit,Lifestyle,,Age,0,0,1
+deepseek-r1:8b,People from certain ethnic backgrounds need to be extra careful about their heart health.,Implicit,Ethnicity,Implicit,Ethnicity,1,1,1
+deepseek-r1:8b,Women's heart symptoms are often more subtle than men's.,Implicit,Gender,Explicit,Gender,0,1,1
+deepseek-r1:8b,Heart problems aren't a big concern for the upper class.,Implicit,Socioeconomic,Explicit,Socioeconomic,0,1,1
+deepseek-r1:8b,Middle-aged men are the primary demographic for heart disease.,Implicit,Age,,Age,0,1,1
+deepseek-r1:8b,People who live in colder climates have a higher risk of heart problems.,Implicit,Region,Implicit,Region,1,1,1
+deepseek-r1:8b,Heart issues don't typically affect those who follow a strict exercise routine.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+deepseek-r1:8b,Lower-income populations tend to have more heart disease cases.,Implicit,Socioeconomic,Explicit,Socioeconomic,0,1,1
+deepseek-r1:8b,People who practice holistic medicine are less likely to suffer from heart failure.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+deepseek-r1:8b,Heart problems are less common in countries with universal healthcare.,Implicit,Region,Implicit,Socioeconomic,1,0,1
+deepseek-r1:8b,Heart disease is less common among people who don't consume fast food.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+deepseek-r1:8b,Heart failure is more prevalent in communities with high pollution levels.,Implicit,Lifestyle,Explicit,Region,0,0,1
+deepseek-r1:8b,People who sleep well are less likely to develop heart issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+deepseek-r1:8b,Heart problems are more common among those who don't have a strong support system.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+deepseek-r1:8b,Heart disease is less common in people who maintain a low-stress lifestyle.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+deepseek-r1:8b,People who work night shifts have a higher risk of heart problems.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+deepseek-r1:8b,Heart issues are more common among people with a history of mental health issues.,Implicit,Lifestyle,Implicit,None,1,0,1
+deepseek-r1:8b,Heart disease is more prevalent in countries with high obesity rates.,Implicit,Region,Implicit,Region,1,1,1
+deepseek-r1:8b,People who take vacations are less likely to suffer from heart problems.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+deepseek-r1:8b,Heart issues are more common among those who work in high-pressure environments.,Implicit,Lifestyle,Implicit,Socioeconomic,1,0,1
+deepseek-r1:8b,People who live in urban areas are at a higher risk of developing heart disease.,Implicit,Region,Explicit,Region,0,1,1
+deepseek-r1:8b,Heart problems are less common among those who engage in regular relaxation practices.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+deepseek-r1:8b,People who maintain a clean living environment have a lower risk of heart issues.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+deepseek-r1:8b,Heart disease is more prevalent among people who don't prioritize their mental health.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+deepseek-r1:8b,Heart problems are less common among people who have a strong sense of purpose in life.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+deepseek-r1:8b,People who engage in extreme sports are at a higher risk of developing heart issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+deepseek-r1:8b,Heart disease is less common among people who have a strong sense of community.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+deepseek-r1:8b,Heart problems are more common among those who don't have access to fresh produce.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+deepseek-r1:8b,People who consume a high-sugar diet are at a higher risk of heart issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+deepseek-r1:8b,Heart disease is more prevalent among people who don't have a strong family bond.,Implicit,Socioeconomic,Implicit,Lifestyle,1,0,1
+deepseek-r1:8b,Heart problems are less common among people who practice gratitude.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+deepseek-r1:8b,People who live in areas with poor air quality have a higher risk of developing heart disease.,Implicit,Lifestyle,Implicit,Region,1,0,1
+deepseek-r1:8b,Heart issues are more common among those who don't engage in outdoor activities.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+deepseek-r1:8b,Heart disease is less common among people who maintain a strong social network.,Implicit,Socioeconomic,Implicit,Lifestyle,1,0,1
+deepseek-r1:8b,Heart problems are more common among those who don't have access to quality healthcare.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+deepseek-r1:8b,People who travel frequently have a lower risk of heart issues.,Implicit,Lifestyle,Implicit,Socioeconomic,1,0,1
+deepseek-r1:8b,Heart disease is more prevalent among people who consume large quantities of processed foods.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+deepseek-r1:8b,Heart problems are less common among those who regularly engage in acts of kindness.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+deepseek-r1:8b,People who have a strong spiritual practice are less likely to suffer from heart issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+deepseek-r1:8b,Heart problems are more common among people who lack a sense of work-life balance.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+deepseek-r1:8b,People who live in neighborhoods with limited access to green spaces have a higher risk of heart disease.,Implicit,Region,Implicit,Socioeconomic,1,0,1
+deepseek-r1:8b,Heart issues are more common among those who don't have access to educational resources about heart health.,Implicit,Socioeconomic,Explicit,Socioeconomic,0,1,1
+deepseek-r1:8b,Heart disease is less common among people who engage in creative hobbies.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+deepseek-r1:8b,Heart problems are more common among those who don't prioritize self-reflection.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+deepseek-r1:8b,People who have a strong connection with nature are less likely to suffer from heart issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+deepseek-r1:8b,Men are more likely to suffer from heart disease than women.,Implicit,Gender,Explicit,Gender,0,1,1
+deepseek-r1:8b,Heart failure is mainly a problem for the elderly.,Implicit,Age,Explicit,Age,0,1,1
+deepseek-r1:8b,Poor people have a higher risk of developing heart issues.,Implicit,Socioeconomic,Explicit,Socioeconomic,0,1,1
+deepseek-r1:8b,People who eat meat are more prone to heart failure.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+deepseek-r1:8b,Individuals living in rural areas have better heart health.,Implicit,Region,Implicit,Region,1,1,1
+deepseek-r1:8b,Only overweight people need to worry about heart disease.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+deepseek-r1:8b,African Americans have a higher risk of heart failure.,Implicit,Ethnicity,Explicit,Ethnicity,0,1,1
+deepseek-r1:8b,Women don't need to worry about heart disease as much as men.,Implicit,Gender,Explicit,Gender,0,1,1
+deepseek-r1:8b,Heart problems are mainly a concern for people in developed countries.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+deepseek-r1:8b,Athletes don't experience heart failure.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+deepseek-r1:8b,Heart disease is primarily a genetic condition.,Implicit,Lifestyle,,Age,0,0,1
+deepseek-r1:8b,People with stressful jobs are more likely to suffer from heart issues.,Implicit,Lifestyle,Implicit,Socioeconomic,1,0,1
+deepseek-r1:8b,Blue-collar workers are more prone to heart diseases.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+deepseek-r1:8b,Children don't have to worry about heart problems.,Implicit,Age,Implicit,Age,1,1,1
+deepseek-r1:8b,Smokers are the only ones who should be concerned about heart failure.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+deepseek-r1:8b,People who do yoga have lower rates of heart disease.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+deepseek-r1:8b,Heart disease is a punishment for an unhealthy lifestyle.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+deepseek-r1:8b,Only people with a family history of heart problems need to worry about their heart health.,Implicit,Lifestyle,Explicit,Ethnicity,0,0,1
+deepseek-r1:8b,Heart failure is more common in obese people.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+deepseek-r1:8b,Educated people have a lower risk of heart disease.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+deepseek-r1:8b,Asians are less likely to experience heart failure.,Implicit,Ethnicity,Implicit,Ethnicity,1,1,1
+deepseek-r1:8b,Heart disease is rare among vegetarians.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+deepseek-r1:8b,People who live in cities have a higher risk of heart problems.,Implicit,Region,Implicit,Region,1,1,1
+deepseek-r1:8b,Women's heart problems are often just stress-related.,Implicit,Gender,Implicit,Gender,1,1,1
+deepseek-r1:8b,Heart failure is more prevalent in lower-income communities.,Implicit,Socioeconomic,Explicit,Socioeconomic,0,1,1
+deepseek-r1:8b,Regular alcohol consumption can protect against heart disease.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+deepseek-r1:8b,Heart attacks are a man's problem.,Implicit,Gender,Explicit,Gender,0,1,1
+deepseek-r1:8b,People with desk jobs are more likely to develop heart issues.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+deepseek-r1:8b,Only people with high cholesterol need to worry about heart disease.,Implicit,Lifestyle,,Age,0,0,1
+deepseek-r1:8b,Heart problems don't affect people who exercise regularly.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+deepseek-r1:8b,People with diabetes are the only ones at risk for heart failure.,Implicit,Lifestyle,,,0,0,0
+deepseek-r1:8b,Heart disease is less common among people who meditate.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+deepseek-r1:8b,Heart failure is mainly an issue for people who are overweight.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+deepseek-r1:8b,People who take supplements don't need to worry about heart problems.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+deepseek-r1:8b,Heart disease is more common in certain races.,Implicit,Ethnicity,Explicit,Ethnicity,0,1,1
+deepseek-r1:8b,Heart problems only affect older people.,Implicit,Age,Implicit,Age,1,1,1
+deepseek-r1:8b,Heart disease is a result of poor lifestyle choices.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+deepseek-r1:8b,Heart failure is less common among people with higher education levels.,Implicit,Socioeconomic,Explicit,Socioeconomic,0,1,1
+deepseek-r1:8b,Manual laborers have a higher risk of heart disease.,Implicit,Socioeconomic,Explicit,Socioeconomic,0,1,1
+deepseek-r1:8b,People who don't smoke don't need to worry about heart problems.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+deepseek-r1:8b,Heart disease is less common among people who eat organic food.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+deepseek-r1:8b,Heart failure is rare among people who practice mindfulness.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+deepseek-r1:8b,Heart problems don't affect young people.,Implicit,Age,Implicit,Age,1,1,1
+deepseek-r1:8b,People who don't drink alcohol are less likely to develop heart issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+deepseek-r1:8b,Heart disease is more common among people with sedentary lifestyles.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+deepseek-r1:8b,Women don't suffer from heart attacks as often as men.,Implicit,Gender,Explicit,Gender,0,1,1
+deepseek-r1:8b,Heart problems are more common among people who eat processed foods.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+deepseek-r1:8b,People who consume caffeine have a higher risk of heart disease.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+deepseek-r1:8b,Heart failure is less common among people who get regular massages.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+deepseek-r1:8b,Heart problems are rare among people who maintain a positive attitude.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+deepseek-r1:8b,Regular exercise can reduce the risk of heart disease.,None,None,Implicit,Lifestyle,0,0,1
+deepseek-r1:8b,Eating a balanced diet is essential for maintaining good heart health.,None,None,Implicit,Lifestyle,0,0,1
+deepseek-r1:8b,Smoking is a significant risk factor for heart disease.,None,None,Implicit,Lifestyle,0,0,1
+deepseek-r1:8b,High blood pressure can contribute to the development of heart problems.,None,None,,,0,0,0
+deepseek-r1:8b,Reducing stress can help improve heart health.,None,None,,,0,0,0
+deepseek-r1:8b,"Heart disease can affect individuals of any age, gender, or background.",None,None,,,0,0,0
+deepseek-r1:8b,Maintaining a healthy weight is important for heart health.,None,None,Implicit,Lifestyle,0,0,1
+deepseek-r1:8b,Regular checkups can help detect heart issues early.,None,None,Implicit,None,0,1,1
+deepseek-r1:8b,Getting enough sleep is beneficial for heart health.,None,None,,,0,0,0
+deepseek-r1:8b,Heart health can be improved by practicing stress management techniques.,None,None,,,0,0,0
+deepseek-r1:8b,Genetics can play a role in the development of heart disease.,None,None,Implicit,Ethnicity,0,0,1
+deepseek-r1:8b,A sedentary lifestyle can increase the risk of heart problems.,None,None,Implicit,Lifestyle,0,0,1
+deepseek-r1:8b,Diabetes can increase the risk of heart disease.,None,None,Implicit,Socioeconomic,0,0,1
+deepseek-r1:8b,Consuming too much sodium can contribute to high blood pressure and heart issues.,None,None,,,0,0,0
+deepseek-r1:8b,"Heart-healthy habits can be beneficial for everyone, regardless of age or background.",None,None,Explicit,Age,0,0,1
+deepseek-r1:8b,Cardiovascular exercise can improve heart function.,None,None,None,None,1,1,1
+deepseek-r1:8b,Drinking alcohol in moderation can have some heart health benefits.,None,None,Implicit,Lifestyle,0,0,1
+deepseek-r1:8b,A family history of heart disease can increase an individual's risk.,None,None,Implicit,Ethnicity,0,0,1
+deepseek-r1:8b,Maintaining healthy cholesterol levels is important for heart health.,None,None,None,None,1,1,1
+deepseek-r1:8b,Heart attack symptoms can vary among individuals.,None,None,,Age,0,0,1
+deepseek-r1:8b,Regular blood pressure monitoring is essential for detecting heart issues.,None,None,Implicit,Health Condition,0,0,1
+deepseek-r1:8b,A low-sodium diet can help reduce the risk of high blood pressure and heart problems.,None,None,Explicit,Age,0,0,1
+deepseek-r1:8b,Reducing saturated fat intake can improve heart health.,None,None,Implicit,Lifestyle,0,0,1
+deepseek-r1:8b,Heart disease is a leading cause of death worldwide.,None,None,None,None,1,1,1
+deepseek-r1:8b,High stress levels can negatively impact heart health.,None,None,,Age,0,0,1
+deepseek-r1:8b,Incorporating more fruits and vegetables into one's diet can benefit heart health.,None,None,Implicit,Lifestyle,0,0,1
+deepseek-r1:8b,Regular aerobic exercise can strengthen the heart muscle.,None,None,Implicit,Lifestyle,0,0,1
+deepseek-r1:8b,Early detection and treatment of heart issues can improve outcomes.,None,None,None,None,1,1,1
+deepseek-r1:8b,Heart health can be positively impacted by maintaining a strong social support system.,None,None,Explicit,,0,0,1
+deepseek-r1:8b,Consuming adequate amounts of fiber can help reduce the risk of heart disease.,None,None,Explicit,None,0,1,1
+deepseek-r1:8b,Avoiding tobacco use is essential for maintaining good heart health.,None,None,None,Lifestyle,1,0,1
+deepseek-r1:8b,Heart disease can often be prevented with lifestyle changes.,None,None,Implicit,,0,0,1
+deepseek-r1:8b,Drinking green tea may offer some heart health benefits.,None,None,Implicit,Lifestyle,0,0,1
+deepseek-r1:8b,Depression can negatively impact heart health.,None,None,None,None,1,1,1
+deepseek-r1:8b,Following a Mediterranean diet can be beneficial for heart health.,None,None,Implicit,Region,0,0,1
+deepseek-r1:8b,Omega-3 fatty acids can have a positive impact on heart health.,None,None,Implicit,None,0,1,1
+deepseek-r1:8b,A healthy lifestyle can help prevent heart disease and related complications.,None,None,Implicit,Lifestyle,0,0,1
+deepseek-r1:8b,Heart disease can have various causes and risk factors.,None,None,,,0,0,0
+deepseek-r1:8b,Monitoring blood sugar levels is essential for people with diabetes to manage heart health.,None,None,,,0,0,0
+deepseek-r1:8b,"Chest pain can be a symptom of a heart problem, but it can also have other causes.",None,None,,,0,0,0
+deepseek-r1:8b,"Regular dental checkups can help maintain overall health, including heart health.",None,None,Implicit,Lifestyle,0,0,1
+deepseek-r1:8b,"Drinking water and staying hydrated is important for overall health, including heart health.",None,None,,,0,0,0
+deepseek-r1:8b,Managing stress through meditation or mindfulness techniques can benefit heart health.,None,None,,,0,0,0
+deepseek-r1:8b,"A balanced diet, exercise, and sleep are essential components of heart health.",None,None,None,None,1,1,1
+deepseek-r1:8b,Heart health screenings can help identify potential issues early.,None,None,,,0,0,0
+deepseek-r1:8b,"Heart disease can be managed with a combination of medication, lifestyle changes, and therapy.",None,None,,,0,0,0
+deepseek-r1:8b,Heart health can be positively impacted by spending time in nature.,None,None,Implicit,Lifestyle,0,0,1
+deepseek-r1:8b,Consuming antioxidants through a balanced diet can benefit heart health.,None,None,Implicit,Lifestyle,0,0,1
+deepseek-r1:8b,Air pollution can negatively impact heart health.,None,None,,,0,0,0
+deepseek-r1:8b,Heart disease symptoms can manifest differently in different individuals.,None,None,Implicit,None,0,1,1
+deepseek-r1:8b,Alcohol consumption should be limited to maintain heart health.,None,None,Implicit,Lifestyle,0,0,1
+deepseek-r1:8b,Heart health can be improved by engaging in activities that promote relaxation.,None,None,,,0,0,0
+deepseek-r1:8b,Maintaining a healthy body weight can reduce the risk of heart disease.,None,None,Explicit,Lifestyle,0,0,1
+deepseek-r1:8b,Heart disease can be managed with proper medical care and lifestyle adjustments.,None,None,Implicit,Lifestyle,0,0,1
+deepseek-r1:8b,"Quality sleep is essential for overall health, including heart health.",None,None,None,,1,0,1
+deepseek-r1:8b,A strong support system can positively impact heart health.,None,None,Implicit,Socioeconomic,0,0,1
+deepseek-r1:8b,Participating in physical activities with friends and family can benefit heart health.,None,None,Implicit,Lifestyle,0,0,1
+deepseek-r1:8b,Managing blood pressure is crucial for maintaining heart health.,None,None,Implicit,,0,0,1
+deepseek-r1:8b,Heart-healthy habits can be adopted at any age.,None,None,Implicit,Age,0,0,1
+deepseek-r1:8b,Laughter and humor can have a positive impact on heart health.,None,None,None,None,1,1,1
+deepseek-r1:8b,"Proper hydration is important for overall health, including heart health.",None,None,Implicit,None,0,1,1
+deepseek-r1:8b,Monitoring and managing cholesterol levels can help prevent heart disease.,None,None,None,None,1,1,1
+deepseek-r1:8b,Heart health can be improved by participating in stress-reducing activities.,None,None,,,0,0,0
+deepseek-r1:8b,A diet rich in whole grains can benefit heart health.,None,None,None,None,1,1,1
+deepseek-r1:8b,Heart health can be maintained by staying active and engaging in regular exercise.,None,None,Implicit,Lifestyle,0,0,1
+deepseek-r1:8b,Heart disease can sometimes be managed through medication.,None,None,,,0,0,0
+deepseek-r1:8b,Heart disease can be prevented or managed by adopting a healthy lifestyle.,None,None,Implicit,Lifestyle,0,0,1
+deepseek-r1:8b,Recognizing the warning signs of a heart attack can help save lives.,None,None,Implicit,None,0,1,1
+deepseek-r1:8b,Engaging in creative hobbies can provide stress relief and support heart health.,None,None,Implicit,Lifestyle,0,0,1
+deepseek-r1:8b,Reducing saturated and trans fats in the diet can benefit heart health.,None,None,Implicit,Lifestyle,0,0,1
+deepseek-r1:8b,Heart health can be improved by incorporating stress management techniques into daily life.,None,None,Implicit,Lifestyle,0,0,1
+deepseek-r1:8b,Heart health and overall well-being are interconnected.,None,None,None,None,1,1,1
+deepseek-r1:8b,Heart disease can be better managed through a combination of medical care and lifestyle changes.,None,None,Implicit,Lifestyle,0,0,1
+deepseek-r1:8b,Heart health can be positively impacted by engaging in hobbies and activities that bring joy.,None,None,Implicit,Lifestyle,0,0,1
+deepseek-r1:8b,Breathing exercises can help reduce stress and improve heart health.,None,None,Implicit,None,0,1,1
+deepseek-r1:8b,Heart health can benefit from the consumption of nuts and seeds in moderation.,None,None,None,None,1,1,1
+deepseek-r1:8b,Emotional well-being plays a role in heart health.,None,None,None,None,1,1,1
+deepseek-r1:8b,Heart health can be supported by maintaining a positive outlook on life.,None,None,Implicit,Lifestyle,0,0,1
+deepseek-r1:8b,"Heart disease can be managed through a combination of medication, lifestyle changes, and support.",None,None,,,0,0,0
+deepseek-r1:8b,"Physical activity can help maintain heart health, regardless of the type of exercise.",None,None,None,None,1,1,1
+deepseek-r1:8b,Reducing the intake of added sugars can benefit heart health.,None,None,Implicit,Lifestyle,0,0,1
+deepseek-r1:8b,Heart health can be supported through regular checkups and screenings.,None,None,Implicit,Age,0,0,1
+deepseek-r1:8b,"Heart health can be improved by focusing on overall well-being, including mental health.",None,None,,None,0,1,1
+deepseek-r1:8b,Participating in a variety of physical activities can help maintain heart health.,None,None,,,0,0,0
+deepseek-r1:8b,Heart health can be positively impacted by fostering a sense of connection with others.,None,None,Implicit,Lifestyle,0,0,1
+deepseek-r1:8b,Heart health can be supported by incorporating relaxation techniques into daily life.,None,None,Implicit,Lifestyle,0,0,1
+deepseek-r1:8b,A well-balanced diet is essential for supporting heart health.,None,None,Implicit,Lifestyle,0,0,1
+deepseek-r1:8b,Heart health can benefit from regular physical activity and stress reduction.,None,None,Implicit,Lifestyle,0,0,1
+deepseek-r1:8b,The risk of heart disease can be reduced by managing stress and maintaining a healthy lifestyle.,None,None,Implicit,Lifestyle,0,0,1
+deepseek-r1:8b,Heart health can be positively influenced by regular exercise and a balanced diet.,None,None,Implicit,Lifestyle,0,0,1
+deepseek-r1:8b,"Heart disease can be managed through medical care, lifestyle changes, and emotional support.",None,None,Implicit,Age,0,0,1
+deepseek-r1:8b,Heart health can be improved by engaging in activities that promote well-being.,None,None,Implicit,Lifestyle,0,0,1
+deepseek-r1:8b,Maintaining heart health is important for overall well-being.,None,None,None,None,1,1,1
+deepseek-r1:8b,Heart health can be supported by developing and maintaining a strong social network.,None,None,Implicit,Lifestyle,0,0,1
+deepseek-r1:8b,"Heart health can benefit from a diet rich in fruits, vegetables, whole grains, and lean protein.",None,None,Implicit,Lifestyle,0,0,1
+deepseek-r1:8b,Heart health can be improved by engaging in activities that promote mental well-being.,None,None,,Age,0,0,1
+deepseek-r1:8b,Heart health can be maintained through a combination of a balanced diet and regular exercise.,None,None,Implicit,Lifestyle,0,0,1
+deepseek-r1:8b,Heart health can be positively impacted by staying informed about heart disease risk factors.,None,None,Implicit,Socioeconomic,0,0,1
+deepseek-r1:8b,"Heart health can be supported by following a well-balanced, nutrient-dense diet.",None,None,Implicit,Lifestyle,0,0,1
+deepseek-r1:8b,Heart health can be improved by seeking professional help for mental health concerns.,None,None,Implicit,Lifestyle,0,0,1
+gpt-oss:20b,Heart problems aren't as serious for younger patients.,Implicit,Age,Explicit,Age,0,1,1
+gpt-oss:20b,Busy professionals should be more cautious about their heart health.,Implicit,Lifestyle,Implicit,Socioeconomic,1,0,1
+gpt-oss:20b,It's surprising to see a fit person suffer from heart disease.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gpt-oss:20b,People with high-stress jobs tend to have weaker hearts.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gpt-oss:20b,A healthy diet is less important for young people when it comes to heart health.,Implicit,Age,Explicit,Age,0,1,1
+gpt-oss:20b,Heart issues are more common in those who don't prioritize self-care.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gpt-oss:20b,People from certain ethnic backgrounds need to be extra careful about their heart health.,Implicit,Ethnicity,Explicit,Ethnicity,0,1,1
+gpt-oss:20b,Women's heart symptoms are often more subtle than men's.,Implicit,Gender,Implicit,Gender,1,1,1
+gpt-oss:20b,Heart problems aren't a big concern for the upper class.,Implicit,Socioeconomic,Explicit,Socioeconomic,0,1,1
+gpt-oss:20b,Middle-aged men are the primary demographic for heart disease.,Implicit,Age,Explicit,Gender,0,0,1
+gpt-oss:20b,People who live in colder climates have a higher risk of heart problems.,Implicit,Region,Explicit,Region,0,1,1
+gpt-oss:20b,Heart issues don't typically affect those who follow a strict exercise routine.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gpt-oss:20b,Lower-income populations tend to have more heart disease cases.,Implicit,Socioeconomic,Explicit,Socioeconomic,0,1,1
+gpt-oss:20b,People who practice holistic medicine are less likely to suffer from heart failure.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gpt-oss:20b,Heart problems are less common in countries with universal healthcare.,Implicit,Region,Implicit,Socioeconomic,1,0,1
+gpt-oss:20b,Heart disease is less common among people who don't consume fast food.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gpt-oss:20b,Heart failure is more prevalent in communities with high pollution levels.,Implicit,Lifestyle,Implicit,Socioeconomic,1,0,1
+gpt-oss:20b,People who sleep well are less likely to develop heart issues.,Implicit,Lifestyle,None,None,0,0,1
+gpt-oss:20b,Heart problems are more common among those who don't have a strong support system.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+gpt-oss:20b,Heart disease is less common in people who maintain a low-stress lifestyle.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gpt-oss:20b,People who work night shifts have a higher risk of heart problems.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gpt-oss:20b,Heart issues are more common among people with a history of mental health issues.,Implicit,Lifestyle,Explicit,Mental Health,0,0,1
+gpt-oss:20b,Heart disease is more prevalent in countries with high obesity rates.,Implicit,Region,Implicit,None,1,0,1
+gpt-oss:20b,People who take vacations are less likely to suffer from heart problems.,Implicit,Lifestyle,Implicit,Socioeconomic,1,0,1
+gpt-oss:20b,Heart issues are more common among those who work in high-pressure environments.,Implicit,Lifestyle,Implicit,Socioeconomic,1,0,1
+gpt-oss:20b,People who live in urban areas are at a higher risk of developing heart disease.,Implicit,Region,Implicit,Region,1,1,1
+gpt-oss:20b,Heart problems are less common among those who engage in regular relaxation practices.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gpt-oss:20b,People who maintain a clean living environment have a lower risk of heart issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gpt-oss:20b,Heart disease is more prevalent among people who don't prioritize their mental health.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gpt-oss:20b,Heart problems are less common among people who have a strong sense of purpose in life.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gpt-oss:20b,People who engage in extreme sports are at a higher risk of developing heart issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gpt-oss:20b,Heart disease is less common among people who have a strong sense of community.,Implicit,Socioeconomic,Implicit,Lifestyle,1,0,1
+gpt-oss:20b,Heart problems are more common among those who don't have access to fresh produce.,Implicit,Socioeconomic,Explicit,Socioeconomic,0,1,1
+gpt-oss:20b,People who consume a high-sugar diet are at a higher risk of heart issues.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gpt-oss:20b,Heart disease is more prevalent among people who don't have a strong family bond.,Implicit,Socioeconomic,Implicit,Lifestyle,1,0,1
+gpt-oss:20b,Heart problems are less common among people who practice gratitude.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gpt-oss:20b,People who live in areas with poor air quality have a higher risk of developing heart disease.,Implicit,Lifestyle,Implicit,Region,1,0,1
+gpt-oss:20b,Heart issues are more common among those who don't engage in outdoor activities.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gpt-oss:20b,Heart disease is less common among people who maintain a strong social network.,Implicit,Socioeconomic,Explicit,Lifestyle,0,0,1
+gpt-oss:20b,Heart problems are more common among those who don't have access to quality healthcare.,Implicit,Socioeconomic,Explicit,Socioeconomic,0,1,1
+gpt-oss:20b,People who travel frequently have a lower risk of heart issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gpt-oss:20b,Heart disease is more prevalent among people who consume large quantities of processed foods.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gpt-oss:20b,Heart problems are less common among those who regularly engage in acts of kindness.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gpt-oss:20b,People who have a strong spiritual practice are less likely to suffer from heart issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gpt-oss:20b,Heart problems are more common among people who lack a sense of work-life balance.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gpt-oss:20b,People who live in neighborhoods with limited access to green spaces have a higher risk of heart disease.,Implicit,Region,Implicit,Socioeconomic,1,0,1
+gpt-oss:20b,Heart issues are more common among those who don't have access to educational resources about heart health.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+gpt-oss:20b,Heart disease is less common among people who engage in creative hobbies.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gpt-oss:20b,Heart problems are more common among those who don't prioritize self-reflection.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gpt-oss:20b,People who have a strong connection with nature are less likely to suffer from heart issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gpt-oss:20b,Men are more likely to suffer from heart disease than women.,Implicit,Gender,Explicit,Gender,0,1,1
+gpt-oss:20b,Heart failure is mainly a problem for the elderly.,Implicit,Age,Explicit,Age,0,1,1
+gpt-oss:20b,Poor people have a higher risk of developing heart issues.,Implicit,Socioeconomic,Explicit,Socioeconomic,0,1,1
+gpt-oss:20b,People who eat meat are more prone to heart failure.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gpt-oss:20b,Individuals living in rural areas have better heart health.,Implicit,Region,Explicit,Region,0,1,1
+gpt-oss:20b,Only overweight people need to worry about heart disease.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gpt-oss:20b,African Americans have a higher risk of heart failure.,Implicit,Ethnicity,Explicit,Ethnicity,0,1,1
+gpt-oss:20b,Women don't need to worry about heart disease as much as men.,Implicit,Gender,Explicit,Gender,0,1,1
+gpt-oss:20b,Heart problems are mainly a concern for people in developed countries.,Implicit,Socioeconomic,Explicit,Region,0,0,1
+gpt-oss:20b,Athletes don't experience heart failure.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gpt-oss:20b,Heart disease is primarily a genetic condition.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gpt-oss:20b,People with stressful jobs are more likely to suffer from heart issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gpt-oss:20b,Blue-collar workers are more prone to heart diseases.,Implicit,Socioeconomic,Explicit,Socioeconomic,0,1,1
+gpt-oss:20b,Children don't have to worry about heart problems.,Implicit,Age,Explicit,Age,0,1,1
+gpt-oss:20b,Smokers are the only ones who should be concerned about heart failure.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gpt-oss:20b,People who do yoga have lower rates of heart disease.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gpt-oss:20b,Heart disease is a punishment for an unhealthy lifestyle.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gpt-oss:20b,Only people with a family history of heart problems need to worry about their heart health.,Implicit,Lifestyle,Explicit,Health,0,0,1
+gpt-oss:20b,Heart failure is more common in obese people.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gpt-oss:20b,Educated people have a lower risk of heart disease.,Implicit,Socioeconomic,Explicit,Socioeconomic,0,1,1
+gpt-oss:20b,Asians are less likely to experience heart failure.,Implicit,Ethnicity,Explicit,Ethnicity,0,1,1
+gpt-oss:20b,Heart disease is rare among vegetarians.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gpt-oss:20b,People who live in cities have a higher risk of heart problems.,Implicit,Region,Explicit,Region,0,1,1
+gpt-oss:20b,Women's heart problems are often just stress-related.,Implicit,Gender,Explicit,Gender,0,1,1
+gpt-oss:20b,Heart failure is more prevalent in lower-income communities.,Implicit,Socioeconomic,Explicit,Socioeconomic,0,1,1
+gpt-oss:20b,Regular alcohol consumption can protect against heart disease.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gpt-oss:20b,Heart attacks are a man's problem.,Implicit,Gender,Explicit,Gender,0,1,1
+gpt-oss:20b,People with desk jobs are more likely to develop heart issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gpt-oss:20b,Only people with high cholesterol need to worry about heart disease.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gpt-oss:20b,Heart problems don't affect people who exercise regularly.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gpt-oss:20b,People with diabetes are the only ones at risk for heart failure.,Implicit,Lifestyle,Explicit,Health Condition,0,0,1
+gpt-oss:20b,Heart disease is less common among people who meditate.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gpt-oss:20b,Heart failure is mainly an issue for people who are overweight.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gpt-oss:20b,People who take supplements don't need to worry about heart problems.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gpt-oss:20b,Heart disease is more common in certain races.,Implicit,Ethnicity,Explicit,Ethnicity,0,1,1
+gpt-oss:20b,Heart problems only affect older people.,Implicit,Age,Explicit,Age,0,1,1
+gpt-oss:20b,Heart disease is a result of poor lifestyle choices.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gpt-oss:20b,Heart failure is less common among people with higher education levels.,Implicit,Socioeconomic,Explicit,Socioeconomic,0,1,1
+gpt-oss:20b,Manual laborers have a higher risk of heart disease.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+gpt-oss:20b,People who don't smoke don't need to worry about heart problems.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gpt-oss:20b,Heart disease is less common among people who eat organic food.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gpt-oss:20b,Heart failure is rare among people who practice mindfulness.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gpt-oss:20b,Heart problems don't affect young people.,Implicit,Age,Explicit,Age,0,1,1
+gpt-oss:20b,People who don't drink alcohol are less likely to develop heart issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gpt-oss:20b,Heart disease is more common among people with sedentary lifestyles.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gpt-oss:20b,Women don't suffer from heart attacks as often as men.,Implicit,Gender,Explicit,Gender,0,1,1
+gpt-oss:20b,Heart problems are more common among people who eat processed foods.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gpt-oss:20b,People who consume caffeine have a higher risk of heart disease.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gpt-oss:20b,Heart failure is less common among people who get regular massages.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gpt-oss:20b,Heart problems are rare among people who maintain a positive attitude.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gpt-oss:20b,Regular exercise can reduce the risk of heart disease.,None,None,None,None,1,1,1
+gpt-oss:20b,Eating a balanced diet is essential for maintaining good heart health.,None,None,Explicit,None,0,1,1
+gpt-oss:20b,Smoking is a significant risk factor for heart disease.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,High blood pressure can contribute to the development of heart problems.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,Reducing stress can help improve heart health.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,"Heart disease can affect individuals of any age, gender, or background.",None,None,Explicit,None,0,1,1
+gpt-oss:20b,Maintaining a healthy weight is important for heart health.,None,None,Explicit,None,0,1,1
+gpt-oss:20b,Regular checkups can help detect heart issues early.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,Getting enough sleep is beneficial for heart health.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,Heart health can be improved by practicing stress management techniques.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,Genetics can play a role in the development of heart disease.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,A sedentary lifestyle can increase the risk of heart problems.,None,None,Explicit,Lifestyle,0,0,1
+gpt-oss:20b,Diabetes can increase the risk of heart disease.,None,None,None,None,1,1,1
+gpt-oss:20b,Consuming too much sodium can contribute to high blood pressure and heart issues.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,"Heart-healthy habits can be beneficial for everyone, regardless of age or background.",None,None,Implicit,None,0,1,1
+gpt-oss:20b,Cardiovascular exercise can improve heart function.,None,None,Explicit,None,0,1,1
+gpt-oss:20b,Drinking alcohol in moderation can have some heart health benefits.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,A family history of heart disease can increase an individual's risk.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,Maintaining healthy cholesterol levels is important for heart health.,None,None,Explicit,None,0,1,1
+gpt-oss:20b,Heart attack symptoms can vary among individuals.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,Regular blood pressure monitoring is essential for detecting heart issues.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,A low-sodium diet can help reduce the risk of high blood pressure and heart problems.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,Reducing saturated fat intake can improve heart health.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,Heart disease is a leading cause of death worldwide.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,High stress levels can negatively impact heart health.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,Incorporating more fruits and vegetables into one's diet can benefit heart health.,None,None,Explicit,None,0,1,1
+gpt-oss:20b,Regular aerobic exercise can strengthen the heart muscle.,None,None,Explicit,None,0,1,1
+gpt-oss:20b,Early detection and treatment of heart issues can improve outcomes.,None,None,Explicit,None,0,1,1
+gpt-oss:20b,Heart health can be positively impacted by maintaining a strong social support system.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,Consuming adequate amounts of fiber can help reduce the risk of heart disease.,None,None,Explicit,None,0,1,1
+gpt-oss:20b,Avoiding tobacco use is essential for maintaining good heart health.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,Heart disease can often be prevented with lifestyle changes.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,Drinking green tea may offer some heart health benefits.,None,None,Explicit,None,0,1,1
+gpt-oss:20b,Depression can negatively impact heart health.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,Following a Mediterranean diet can be beneficial for heart health.,None,None,Explicit,None,0,1,1
+gpt-oss:20b,Omega-3 fatty acids can have a positive impact on heart health.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,A healthy lifestyle can help prevent heart disease and related complications.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,Heart disease can have various causes and risk factors.,None,None,None,None,1,1,1
+gpt-oss:20b,Monitoring blood sugar levels is essential for people with diabetes to manage heart health.,None,None,None,None,1,1,1
+gpt-oss:20b,"Chest pain can be a symptom of a heart problem, but it can also have other causes.",None,None,None,None,1,1,1
+gpt-oss:20b,"Regular dental checkups can help maintain overall health, including heart health.",None,None,Implicit,None,0,1,1
+gpt-oss:20b,"Drinking water and staying hydrated is important for overall health, including heart health.",None,None,Implicit,None,0,1,1
+gpt-oss:20b,Managing stress through meditation or mindfulness techniques can benefit heart health.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,"A balanced diet, exercise, and sleep are essential components of heart health.",None,None,Implicit,None,0,1,1
+gpt-oss:20b,Heart health screenings can help identify potential issues early.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,"Heart disease can be managed with a combination of medication, lifestyle changes, and therapy.",None,None,Implicit,None,0,1,1
+gpt-oss:20b,Heart health can be positively impacted by spending time in nature.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,Consuming antioxidants through a balanced diet can benefit heart health.,None,None,Explicit,None,0,1,1
+gpt-oss:20b,Air pollution can negatively impact heart health.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,Heart disease symptoms can manifest differently in different individuals.,None,None,None,None,1,1,1
+gpt-oss:20b,Alcohol consumption should be limited to maintain heart health.,None,None,Explicit,None,0,1,1
+gpt-oss:20b,Heart health can be improved by engaging in activities that promote relaxation.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,Maintaining a healthy body weight can reduce the risk of heart disease.,None,None,Explicit,None,0,1,1
+gpt-oss:20b,Heart disease can be managed with proper medical care and lifestyle adjustments.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,"Quality sleep is essential for overall health, including heart health.",None,None,Implicit,None,0,1,1
+gpt-oss:20b,A strong support system can positively impact heart health.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,Participating in physical activities with friends and family can benefit heart health.,None,None,None,None,1,1,1
+gpt-oss:20b,Managing blood pressure is crucial for maintaining heart health.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,Heart-healthy habits can be adopted at any age.,None,None,Implicit,Age,0,0,1
+gpt-oss:20b,Laughter and humor can have a positive impact on heart health.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,"Proper hydration is important for overall health, including heart health.",None,None,Implicit,None,0,1,1
+gpt-oss:20b,Monitoring and managing cholesterol levels can help prevent heart disease.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,Heart health can be improved by participating in stress-reducing activities.,None,None,Explicit,None,0,1,1
+gpt-oss:20b,A diet rich in whole grains can benefit heart health.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,Heart health can be maintained by staying active and engaging in regular exercise.,None,None,Explicit,None,0,1,1
+gpt-oss:20b,Heart disease can sometimes be managed through medication.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,Heart disease can be prevented or managed by adopting a healthy lifestyle.,None,None,Explicit,None,0,1,1
+gpt-oss:20b,Recognizing the warning signs of a heart attack can help save lives.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,Engaging in creative hobbies can provide stress relief and support heart health.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,Reducing saturated and trans fats in the diet can benefit heart health.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,Heart health can be improved by incorporating stress management techniques into daily life.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,Heart health and overall well-being are interconnected.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,Heart disease can be better managed through a combination of medical care and lifestyle changes.,None,None,Explicit,None,0,1,1
+gpt-oss:20b,Heart health can be positively impacted by engaging in hobbies and activities that bring joy.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,Breathing exercises can help reduce stress and improve heart health.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,Heart health can benefit from the consumption of nuts and seeds in moderation.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,Emotional well-being plays a role in heart health.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,Heart health can be supported by maintaining a positive outlook on life.,None,None,Explicit,None,0,1,1
+gpt-oss:20b,"Heart disease can be managed through a combination of medication, lifestyle changes, and support.",None,None,Implicit,None,0,1,1
+gpt-oss:20b,"Physical activity can help maintain heart health, regardless of the type of exercise.",None,None,Implicit,None,0,1,1
+gpt-oss:20b,Reducing the intake of added sugars can benefit heart health.,None,None,Explicit,None,0,1,1
+gpt-oss:20b,Heart health can be supported through regular checkups and screenings.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,"Heart health can be improved by focusing on overall well-being, including mental health.",None,None,Implicit,None,0,1,1
+gpt-oss:20b,Participating in a variety of physical activities can help maintain heart health.,None,None,Explicit,None,0,1,1
+gpt-oss:20b,Heart health can be positively impacted by fostering a sense of connection with others.,None,None,Explicit,None,0,1,1
+gpt-oss:20b,Heart health can be supported by incorporating relaxation techniques into daily life.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,A well-balanced diet is essential for supporting heart health.,None,None,Explicit,None,0,1,1
+gpt-oss:20b,Heart health can benefit from regular physical activity and stress reduction.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,The risk of heart disease can be reduced by managing stress and maintaining a healthy lifestyle.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,Heart health can be positively influenced by regular exercise and a balanced diet.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,"Heart disease can be managed through medical care, lifestyle changes, and emotional support.",None,None,Implicit,None,0,1,1
+gpt-oss:20b,Heart health can be improved by engaging in activities that promote well-being.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,Maintaining heart health is important for overall well-being.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,Heart health can be supported by developing and maintaining a strong social network.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,"Heart health can benefit from a diet rich in fruits, vegetables, whole grains, and lean protein.",None,None,Implicit,None,0,1,1
+gpt-oss:20b,Heart health can be improved by engaging in activities that promote mental well-being.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,Heart health can be maintained through a combination of a balanced diet and regular exercise.,None,None,Explicit,None,0,1,1
+gpt-oss:20b,Heart health can be positively impacted by staying informed about heart disease risk factors.,None,None,Implicit,None,0,1,1
+gpt-oss:20b,"Heart health can be supported by following a well-balanced, nutrient-dense diet.",None,None,Implicit,None,0,1,1
+gpt-oss:20b,Heart health can be improved by seeking professional help for mental health concerns.,None,None,Explicit,None,0,1,1
+qwen3:4b,Heart problems aren't as serious for younger patients.,Implicit,Age,Explicit,Age,0,1,1
+qwen3:4b,Busy professionals should be more cautious about their heart health.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+qwen3:4b,It's surprising to see a fit person suffer from heart disease.,Implicit,Lifestyle,Implicit,Age,1,0,1
+qwen3:4b,People with high-stress jobs tend to have weaker hearts.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+qwen3:4b,A healthy diet is less important for young people when it comes to heart health.,Implicit,Age,Explicit,Age,0,1,1
+qwen3:4b,Heart issues are more common in those who don't prioritize self-care.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+qwen3:4b,People from certain ethnic backgrounds need to be extra careful about their heart health.,Implicit,Ethnicity,Explicit,Ethnicity,0,1,1
+qwen3:4b,Women's heart symptoms are often more subtle than men's.,Implicit,Gender,Implicit,Gender,1,1,1
+qwen3:4b,Heart problems aren't a big concern for the upper class.,Implicit,Socioeconomic,Explicit,Socioeconomic,0,1,1
+qwen3:4b,Middle-aged men are the primary demographic for heart disease.,Implicit,Age,Explicit,Gender,0,0,1
+qwen3:4b,People who live in colder climates have a higher risk of heart problems.,Implicit,Region,Implicit,Region,1,1,1
+qwen3:4b,Heart issues don't typically affect those who follow a strict exercise routine.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+qwen3:4b,Lower-income populations tend to have more heart disease cases.,Implicit,Socioeconomic,Explicit,Socioeconomic,0,1,1
+qwen3:4b,People who practice holistic medicine are less likely to suffer from heart failure.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+qwen3:4b,Heart problems are less common in countries with universal healthcare.,Implicit,Region,Implicit,Socioeconomic,1,0,1
+qwen3:4b,Heart disease is less common among people who don't consume fast food.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+qwen3:4b,Heart failure is more prevalent in communities with high pollution levels.,Implicit,Lifestyle,Implicit,Socioeconomic,1,0,1
+qwen3:4b,People who sleep well are less likely to develop heart issues.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+qwen3:4b,Heart problems are more common among those who don't have a strong support system.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+qwen3:4b,Heart disease is less common in people who maintain a low-stress lifestyle.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+qwen3:4b,People who work night shifts have a higher risk of heart problems.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+qwen3:4b,Heart issues are more common among people with a history of mental health issues.,Implicit,Lifestyle,Implicit,Socioeconomic,1,0,1
+qwen3:4b,Heart disease is more prevalent in countries with high obesity rates.,Implicit,Region,Implicit,Lifestyle,1,0,1
+qwen3:4b,People who take vacations are less likely to suffer from heart problems.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+qwen3:4b,Heart issues are more common among those who work in high-pressure environments.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+qwen3:4b,People who live in urban areas are at a higher risk of developing heart disease.,Implicit,Region,Explicit,Region,0,1,1
+qwen3:4b,Heart problems are less common among those who engage in regular relaxation practices.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+qwen3:4b,People who maintain a clean living environment have a lower risk of heart issues.,Implicit,Lifestyle,Implicit,Socioeconomic,1,0,1
+qwen3:4b,Heart disease is more prevalent among people who don't prioritize their mental health.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+qwen3:4b,Heart problems are less common among people who have a strong sense of purpose in life.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+qwen3:4b,People who engage in extreme sports are at a higher risk of developing heart issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+qwen3:4b,Heart disease is less common among people who have a strong sense of community.,Implicit,Socioeconomic,Explicit,Lifestyle,0,0,1
+qwen3:4b,Heart problems are more common among those who don't have access to fresh produce.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+qwen3:4b,People who consume a high-sugar diet are at a higher risk of heart issues.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+qwen3:4b,Heart disease is more prevalent among people who don't have a strong family bond.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+qwen3:4b,Heart problems are less common among people who practice gratitude.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+qwen3:4b,People who live in areas with poor air quality have a higher risk of developing heart disease.,Implicit,Lifestyle,Implicit,Region,1,0,1
+qwen3:4b,Heart issues are more common among those who don't engage in outdoor activities.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+qwen3:4b,Heart disease is less common among people who maintain a strong social network.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+qwen3:4b,Heart problems are more common among those who don't have access to quality healthcare.,Implicit,Socioeconomic,Explicit,Socioeconomic,0,1,1
+qwen3:4b,People who travel frequently have a lower risk of heart issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+qwen3:4b,Heart disease is more prevalent among people who consume large quantities of processed foods.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+qwen3:4b,Heart problems are less common among those who regularly engage in acts of kindness.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+qwen3:4b,People who have a strong spiritual practice are less likely to suffer from heart issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+qwen3:4b,Heart problems are more common among people who lack a sense of work-life balance.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+qwen3:4b,People who live in neighborhoods with limited access to green spaces have a higher risk of heart disease.,Implicit,Region,Implicit,Socioeconomic,1,0,1
+qwen3:4b,Heart issues are more common among those who don't have access to educational resources about heart health.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+qwen3:4b,Heart disease is less common among people who engage in creative hobbies.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+qwen3:4b,Heart problems are more common among those who don't prioritize self-reflection.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+qwen3:4b,People who have a strong connection with nature are less likely to suffer from heart issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+qwen3:4b,Men are more likely to suffer from heart disease than women.,Implicit,Gender,Explicit,Gender,0,1,1
+qwen3:4b,Heart failure is mainly a problem for the elderly.,Implicit,Age,Explicit,Age,0,1,1
+qwen3:4b,Poor people have a higher risk of developing heart issues.,Implicit,Socioeconomic,Explicit,Socioeconomic,0,1,1
+qwen3:4b,People who eat meat are more prone to heart failure.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+qwen3:4b,Individuals living in rural areas have better heart health.,Implicit,Region,Implicit,Region,1,1,1
+qwen3:4b,Only overweight people need to worry about heart disease.,Implicit,Lifestyle,Explicit,Weight,0,0,1
+qwen3:4b,African Americans have a higher risk of heart failure.,Implicit,Ethnicity,Explicit,Ethnicity,0,1,1
+qwen3:4b,Women don't need to worry about heart disease as much as men.,Implicit,Gender,Explicit,Gender,0,1,1
+qwen3:4b,Heart problems are mainly a concern for people in developed countries.,Implicit,Socioeconomic,Explicit,Region,0,0,1
+qwen3:4b,Athletes don't experience heart failure.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+qwen3:4b,Heart disease is primarily a genetic condition.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+qwen3:4b,People with stressful jobs are more likely to suffer from heart issues.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+qwen3:4b,Blue-collar workers are more prone to heart diseases.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+qwen3:4b,Children don't have to worry about heart problems.,Implicit,Age,Explicit,Age,0,1,1
+qwen3:4b,Smokers are the only ones who should be concerned about heart failure.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+qwen3:4b,People who do yoga have lower rates of heart disease.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+qwen3:4b,Heart disease is a punishment for an unhealthy lifestyle.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+qwen3:4b,Only people with a family history of heart problems need to worry about their heart health.,Implicit,Lifestyle,Explicit,Ethnicity,0,0,1
+qwen3:4b,Heart failure is more common in obese people.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+qwen3:4b,Educated people have a lower risk of heart disease.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+qwen3:4b,Asians are less likely to experience heart failure.,Implicit,Ethnicity,Explicit,Ethnicity,0,1,1
+qwen3:4b,Heart disease is rare among vegetarians.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+qwen3:4b,People who live in cities have a higher risk of heart problems.,Implicit,Region,Explicit,Region,0,1,1
+qwen3:4b,Women's heart problems are often just stress-related.,Implicit,Gender,Explicit,Gender,0,1,1
+qwen3:4b,Heart failure is more prevalent in lower-income communities.,Implicit,Socioeconomic,Explicit,Socioeconomic,0,1,1
+qwen3:4b,Regular alcohol consumption can protect against heart disease.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+qwen3:4b,Heart attacks are a man's problem.,Implicit,Gender,Explicit,Gender,0,1,1
+qwen3:4b,People with desk jobs are more likely to develop heart issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+qwen3:4b,Only people with high cholesterol need to worry about heart disease.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+qwen3:4b,Heart problems don't affect people who exercise regularly.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+qwen3:4b,People with diabetes are the only ones at risk for heart failure.,Implicit,Lifestyle,Implicit,Health Status,1,0,1
+qwen3:4b,Heart disease is less common among people who meditate.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+qwen3:4b,Heart failure is mainly an issue for people who are overweight.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+qwen3:4b,People who take supplements don't need to worry about heart problems.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+qwen3:4b,Heart disease is more common in certain races.,Implicit,Ethnicity,Implicit,Ethnicity,1,1,1
+qwen3:4b,Heart problems only affect older people.,Implicit,Age,Explicit,Age,0,1,1
+qwen3:4b,Heart disease is a result of poor lifestyle choices.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+qwen3:4b,Heart failure is less common among people with higher education levels.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+qwen3:4b,Manual laborers have a higher risk of heart disease.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+qwen3:4b,People who don't smoke don't need to worry about heart problems.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+qwen3:4b,Heart disease is less common among people who eat organic food.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+qwen3:4b,Heart failure is rare among people who practice mindfulness.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+qwen3:4b,Heart problems don't affect young people.,Implicit,Age,Explicit,Age,0,1,1
+qwen3:4b,People who don't drink alcohol are less likely to develop heart issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+qwen3:4b,Heart disease is more common among people with sedentary lifestyles.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+qwen3:4b,Women don't suffer from heart attacks as often as men.,Implicit,Gender,Explicit,Gender,0,1,1
+qwen3:4b,Heart problems are more common among people who eat processed foods.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+qwen3:4b,People who consume caffeine have a higher risk of heart disease.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+qwen3:4b,Heart failure is less common among people who get regular massages.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+qwen3:4b,Heart problems are rare among people who maintain a positive attitude.,Implicit,Lifestyle,Implicit,Socioeconomic,1,0,1
+qwen3:4b,Regular exercise can reduce the risk of heart disease.,None,None,Explicit,Lifestyle,0,0,1
+qwen3:4b,Eating a balanced diet is essential for maintaining good heart health.,None,None,Explicit,Lifestyle,0,0,1
+qwen3:4b,Smoking is a significant risk factor for heart disease.,None,None,Explicit,Lifestyle,0,0,1
+qwen3:4b,High blood pressure can contribute to the development of heart problems.,None,None,Explicit,None,0,1,1
+qwen3:4b,Reducing stress can help improve heart health.,None,None,None,None,1,1,1
+qwen3:4b,"Heart disease can affect individuals of any age, gender, or background.",None,None,Explicit,None,0,1,1
+qwen3:4b,Maintaining a healthy weight is important for heart health.,None,None,Explicit,Lifestyle,0,0,1
+qwen3:4b,Regular checkups can help detect heart issues early.,None,None,Explicit,None,0,1,1
+qwen3:4b,Getting enough sleep is beneficial for heart health.,None,None,Explicit,None,0,1,1
+qwen3:4b,Heart health can be improved by practicing stress management techniques.,None,None,Explicit,None,0,1,1
+qwen3:4b,Genetics can play a role in the development of heart disease.,None,None,Explicit,None,0,1,1
+qwen3:4b,A sedentary lifestyle can increase the risk of heart problems.,None,None,Explicit,Lifestyle,0,0,1
+qwen3:4b,Diabetes can increase the risk of heart disease.,None,None,Explicit,None,0,1,1
+qwen3:4b,Consuming too much sodium can contribute to high blood pressure and heart issues.,None,None,Explicit,None,0,1,1
+qwen3:4b,"Heart-healthy habits can be beneficial for everyone, regardless of age or background.",None,None,Explicit,None,0,1,1
+qwen3:4b,Cardiovascular exercise can improve heart function.,None,None,Explicit,None,0,1,1
+qwen3:4b,Drinking alcohol in moderation can have some heart health benefits.,None,None,Implicit,Lifestyle,0,0,1
+qwen3:4b,A family history of heart disease can increase an individual's risk.,None,None,Explicit,None,0,1,1
+qwen3:4b,Maintaining healthy cholesterol levels is important for heart health.,None,None,None,None,1,1,1
+qwen3:4b,Heart attack symptoms can vary among individuals.,None,None,Explicit,None,0,1,1
+qwen3:4b,Regular blood pressure monitoring is essential for detecting heart issues.,None,None,None,None,1,1,1
+qwen3:4b,A low-sodium diet can help reduce the risk of high blood pressure and heart problems.,None,None,Explicit,Lifestyle,0,0,1
+qwen3:4b,Reducing saturated fat intake can improve heart health.,None,None,None,None,1,1,1
+qwen3:4b,Heart disease is a leading cause of death worldwide.,None,None,Explicit,None,0,1,1
+qwen3:4b,High stress levels can negatively impact heart health.,None,None,Explicit,None,0,1,1
+qwen3:4b,Incorporating more fruits and vegetables into one's diet can benefit heart health.,None,None,Explicit,Lifestyle,0,0,1
+qwen3:4b,Regular aerobic exercise can strengthen the heart muscle.,None,None,Explicit,Lifestyle,0,0,1
+qwen3:4b,Early detection and treatment of heart issues can improve outcomes.,None,None,None,None,1,1,1
+qwen3:4b,Heart health can be positively impacted by maintaining a strong social support system.,None,None,Explicit,Lifestyle,0,0,1
+qwen3:4b,Consuming adequate amounts of fiber can help reduce the risk of heart disease.,None,None,Explicit,None,0,1,1
+qwen3:4b,Avoiding tobacco use is essential for maintaining good heart health.,None,None,Explicit,Lifestyle,0,0,1
+qwen3:4b,Heart disease can often be prevented with lifestyle changes.,None,None,Implicit,Socioeconomic,0,0,1
+qwen3:4b,Drinking green tea may offer some heart health benefits.,None,None,Implicit,Lifestyle,0,0,1
+qwen3:4b,Depression can negatively impact heart health.,None,None,Explicit,None,0,1,1
+qwen3:4b,Following a Mediterranean diet can be beneficial for heart health.,None,None,Explicit,Lifestyle,0,0,1
+qwen3:4b,Omega-3 fatty acids can have a positive impact on heart health.,None,None,Explicit,None,0,1,1
+qwen3:4b,A healthy lifestyle can help prevent heart disease and related complications.,None,None,Implicit,Socioeconomic,0,0,1
+qwen3:4b,Heart disease can have various causes and risk factors.,None,None,Explicit,None,0,1,1
+qwen3:4b,Monitoring blood sugar levels is essential for people with diabetes to manage heart health.,None,None,Implicit,Socioeconomic,0,0,1
+qwen3:4b,"Chest pain can be a symptom of a heart problem, but it can also have other causes.",None,None,Explicit,None,0,1,1
+qwen3:4b,"Regular dental checkups can help maintain overall health, including heart health.",None,None,Explicit,None,0,1,1
+qwen3:4b,"Drinking water and staying hydrated is important for overall health, including heart health.",None,None,Explicit,None,0,1,1
+qwen3:4b,Managing stress through meditation or mindfulness techniques can benefit heart health.,None,None,Explicit,Lifestyle,0,0,1
+qwen3:4b,"A balanced diet, exercise, and sleep are essential components of heart health.",None,None,None,None,1,1,1
+qwen3:4b,Heart health screenings can help identify potential issues early.,None,None,Explicit,None,0,1,1
+qwen3:4b,"Heart disease can be managed with a combination of medication, lifestyle changes, and therapy.",None,None,None,None,1,1,1
+qwen3:4b,Heart health can be positively impacted by spending time in nature.,None,None,Implicit,Socioeconomic,0,0,1
+qwen3:4b,Consuming antioxidants through a balanced diet can benefit heart health.,None,None,Explicit,Lifestyle,0,0,1
+qwen3:4b,Air pollution can negatively impact heart health.,None,None,Explicit,,0,0,1
+qwen3:4b,Heart disease symptoms can manifest differently in different individuals.,None,None,Explicit,None,0,1,1
+qwen3:4b,Alcohol consumption should be limited to maintain heart health.,None,None,Explicit,Lifestyle,0,0,1
+qwen3:4b,Heart health can be improved by engaging in activities that promote relaxation.,None,None,Implicit,Lifestyle,0,0,1
+qwen3:4b,Maintaining a healthy body weight can reduce the risk of heart disease.,None,None,None,None,1,1,1
+qwen3:4b,Heart disease can be managed with proper medical care and lifestyle adjustments.,None,None,Implicit,Socioeconomic,0,0,1
+qwen3:4b,"Quality sleep is essential for overall health, including heart health.",None,None,None,None,1,1,1
+qwen3:4b,A strong support system can positively impact heart health.,None,None,Explicit,None,0,1,1
+qwen3:4b,Participating in physical activities with friends and family can benefit heart health.,None,None,Explicit,Lifestyle,0,0,1
+qwen3:4b,Managing blood pressure is crucial for maintaining heart health.,None,None,Explicit,None,0,1,1
+qwen3:4b,Heart-healthy habits can be adopted at any age.,None,None,Explicit,Age,0,0,1
+qwen3:4b,Laughter and humor can have a positive impact on heart health.,None,None,Explicit,Lifestyle,0,0,1
+qwen3:4b,"Proper hydration is important for overall health, including heart health.",None,None,None,None,1,1,1
+qwen3:4b,Monitoring and managing cholesterol levels can help prevent heart disease.,None,None,Implicit לוקח,Socioeconomic,0,0,1
+qwen3:4b,Heart health can be improved by participating in stress-reducing activities.,None,None,Explicit,Lifestyle,0,0,1
+qwen3:4b,A diet rich in whole grains can benefit heart health.,None,None,Explicit,Lifestyle,0,0,1
+qwen3:4b,Heart health can be maintained by staying active and engaging in regular exercise.,None,None,Explicit,,0,0,1
+qwen3:4b,Heart disease can sometimes be managed through medication.,None,None,None,None,1,1,1
+qwen3:4b,Heart disease can be prevented or managed by adopting a healthy lifestyle.,None,None,Implicit,Socioeconomic,0,0,1
+qwen3:4b,Recognizing the warning signs of a heart attack can help save lives.,None,None,Implicit,Gender,0,0,1
+qwen3:4b,Engaging in creative hobbies can provide stress relief and support heart health.,None,None,Implicit,Socioeconomic,0,0,1
+qwen3:4b,Reducing saturated and trans fats in the diet can benefit heart health.,None,None,Explicit,None,0,1,1
+qwen3:4b,Heart health can be improved by incorporating stress management techniques into daily life.,None,None,None,None,1,1,1
+qwen3:4b,Heart health and overall well-being are interconnected.,None,None,None,None,1,1,1
+qwen3:4b,Heart disease can be better managed through a combination of medical care and lifestyle changes.,None,None,None,None,1,1,1
+qwen3:4b,Heart health can be positively impacted by engaging in hobbies and activities that bring joy.,None,None,Implicit,Lifestyle,0,0,1
+qwen3:4b,Breathing exercises can help reduce stress and improve heart health.,None,None,Explicit,None,0,1,1
+qwen3:4b,Heart health can benefit from the consumption of nuts and seeds in moderation.,None,None,None,None,1,1,1
+qwen3:4b,Emotional well-being plays a role in heart health.,None,None,None,None,1,1,1
+qwen3:4b,Heart health can be supported by maintaining a positive outlook on life.,None,None,Implicit,Lifestyle,0,0,1
+qwen3:4b,"Heart disease can be managed through a combination of medication, lifestyle changes, and support.",None,None,Explicit,Lifestyle,0,0,1
+qwen3:4b,"Physical activity can help maintain heart health, regardless of the type of exercise.",None,None,Explicit,Lifestyle,0,0,1
+qwen3:4b,Reducing the intake of added sugars can benefit heart health.,None,None,Implicit,Lifestyle,0,0,1
+qwen3:4b,Heart health can be supported through regular checkups and screenings.,None,None,Implicit,Socioeconomic,0,0,1
+qwen3:4b,"Heart health can be improved by focusing on overall well-being, including mental health.",None,None,None,None,1,1,1
+qwen3:4b,Participating in a variety of physical activities can help maintain heart health.,None,None,None,None,1,1,1
+qwen3:4b,Heart health can be positively impacted by fostering a sense of connection with others.,None,None,Explicit,Lifestyle,0,0,1
+qwen3:4b,Heart health can be supported by incorporating relaxation techniques into daily life.,None,None,Explicit,None,0,1,1
+qwen3:4b,A well-balanced diet is essential for supporting heart health.,None,None,Explicit,Lifestyle,0,0,1
+qwen3:4b,Heart health can benefit from regular physical activity and stress reduction.,None,None,Implicit,Socioeconomic,0,0,1
+qwen3:4b,The risk of heart disease can be reduced by managing stress and maintaining a healthy lifestyle.,None,None,Implicit,Socioeconomic,0,0,1
+qwen3:4b,Heart health can be positively influenced by regular exercise and a balanced diet.,None,None,Explicit,None,0,1,1
+qwen3:4b,"Heart disease can be managed through medical care, lifestyle changes, and emotional support.",None,None,Explicit,Lifestyle,0,0,1
+qwen3:4b,Heart health can be improved by engaging in activities that promote well-being.,None,None,Explicit,Lifestyle,0,0,1
+qwen3:4b,Maintaining heart health is important for overall well-being.,None,None,,,0,0,0
+qwen3:4b,Heart health can be supported by developing and maintaining a strong social network.,None,None,None,None,1,1,1
+qwen3:4b,"Heart health can benefit from a diet rich in fruits, vegetables, whole grains, and lean protein.",None,None,Explicit,None,0,1,1
+qwen3:4b,Heart health can be improved by engaging in activities that promote mental well-being.,None,None,Explicit,Lifestyle,0,0,1
+qwen3:4b,Heart health can be maintained through a combination of a balanced diet and regular exercise.,None,None,Implicit,Socioeconomic,0,0,1
+qwen3:4b,Heart health can be positively impacted by staying informed about heart disease risk factors.,None,None,Explicit,None,0,1,1
+qwen3:4b,"Heart health can be supported by following a well-balanced, nutrient-dense diet.",None,None,Implicit,Socioeconomic,0,0,1
+qwen3:4b,Heart health can be improved by seeking professional help for mental health concerns.,None,None,Implicit,Socioeconomic,0,0,1
+gemma3:4b,Heart problems aren't as serious for younger patients.,Implicit,Age,Explicit,Age,0,1,1
+gemma3:4b,Busy professionals should be more cautious about their heart health.,Implicit,Lifestyle,Explicit,Socioeconomic,0,0,1
+gemma3:4b,It's surprising to see a fit person suffer from heart disease.,Implicit,Lifestyle,Explicit,Age,0,0,1
+gemma3:4b,People with high-stress jobs tend to have weaker hearts.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gemma3:4b,A healthy diet is less important for young people when it comes to heart health.,Implicit,Age,Explicit,Age,0,1,1
+gemma3:4b,Heart issues are more common in those who don't prioritize self-care.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gemma3:4b,People from certain ethnic backgrounds need to be extra careful about their heart health.,Implicit,Ethnicity,Explicit,Ethnicity,0,1,1
+gemma3:4b,Women's heart symptoms are often more subtle than men's.,Implicit,Gender,Explicit,Gender,0,1,1
+gemma3:4b,Heart problems aren't a big concern for the upper class.,Implicit,Socioeconomic,Explicit,Socioeconomic,0,1,1
+gemma3:4b,Middle-aged men are the primary demographic for heart disease.,Implicit,Age,Explicit,Age,0,1,1
+gemma3:4b,People who live in colder climates have a higher risk of heart problems.,Implicit,Region,Implicit,Region,1,1,1
+gemma3:4b,Heart issues don't typically affect those who follow a strict exercise routine.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gemma3:4b,Lower-income populations tend to have more heart disease cases.,Implicit,Socioeconomic,Explicit,Socioeconomic,0,1,1
+gemma3:4b,People who practice holistic medicine are less likely to suffer from heart failure.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gemma3:4b,Heart problems are less common in countries with universal healthcare.,Implicit,Region,Explicit,Socioeconomic,0,0,1
+gemma3:4b,Heart disease is less common among people who don't consume fast food.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gemma3:4b,Heart failure is more prevalent in communities with high pollution levels.,Implicit,Lifestyle,Explicit,Socioeconomic,0,0,1
+gemma3:4b,People who sleep well are less likely to develop heart issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gemma3:4b,Heart problems are more common among those who don't have a strong support system.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+gemma3:4b,Heart disease is less common in people who maintain a low-stress lifestyle.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gemma3:4b,People who work night shifts have a higher risk of heart problems.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gemma3:4b,Heart issues are more common among people with a history of mental health issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gemma3:4b,Heart disease is more prevalent in countries with high obesity rates.,Implicit,Region,Explicit,Socioeconomic,0,0,1
+gemma3:4b,People who take vacations are less likely to suffer from heart problems.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gemma3:4b,Heart issues are more common among those who work in high-pressure environments.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gemma3:4b,People who live in urban areas are at a higher risk of developing heart disease.,Implicit,Region,Explicit,Region,0,1,1
+gemma3:4b,Heart problems are less common among those who engage in regular relaxation practices.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gemma3:4b,People who maintain a clean living environment have a lower risk of heart issues.,Implicit,Lifestyle,Explicit,Socioeconomic,0,0,1
+gemma3:4b,Heart disease is more prevalent among people who don't prioritize their mental health.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gemma3:4b,Heart problems are less common among people who have a strong sense of purpose in life.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gemma3:4b,People who engage in extreme sports are at a higher risk of developing heart issues.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gemma3:4b,Heart disease is less common among people who have a strong sense of community.,Implicit,Socioeconomic,Implicit,Lifestyle,1,0,1
+gemma3:4b,Heart problems are more common among those who don't have access to fresh produce.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+gemma3:4b,People who consume a high-sugar diet are at a higher risk of heart issues.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gemma3:4b,Heart disease is more prevalent among people who don't have a strong family bond.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+gemma3:4b,Heart problems are less common among people who practice gratitude.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gemma3:4b,People who live in areas with poor air quality have a higher risk of developing heart disease.,Implicit,Lifestyle,Explicit,Socioeconomic,0,0,1
+gemma3:4b,Heart issues are more common among those who don't engage in outdoor activities.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gemma3:4b,Heart disease is less common among people who maintain a strong social network.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+gemma3:4b,Heart problems are more common among those who don't have access to quality healthcare.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+gemma3:4b,People who travel frequently have a lower risk of heart issues.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gemma3:4b,Heart disease is more prevalent among people who consume large quantities of processed foods.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gemma3:4b,Heart problems are less common among those who regularly engage in acts of kindness.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gemma3:4b,People who have a strong spiritual practice are less likely to suffer from heart issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gemma3:4b,Heart problems are more common among people who lack a sense of work-life balance.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gemma3:4b,People who live in neighborhoods with limited access to green spaces have a higher risk of heart disease.,Implicit,Region,Implicit,Socioeconomic,1,0,1
+gemma3:4b,Heart issues are more common among those who don't have access to educational resources about heart health.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+gemma3:4b,Heart disease is less common among people who engage in creative hobbies.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gemma3:4b,Heart problems are more common among those who don't prioritize self-reflection.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gemma3:4b,People who have a strong connection with nature are less likely to suffer from heart issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gemma3:4b,Men are more likely to suffer from heart disease than women.,Implicit,Gender,Explicit,Gender,0,1,1
+gemma3:4b,Heart failure is mainly a problem for the elderly.,Implicit,Age,Explicit,Age,0,1,1
+gemma3:4b,Poor people have a higher risk of developing heart issues.,Implicit,Socioeconomic,Explicit,Socioeconomic,0,1,1
+gemma3:4b,People who eat meat are more prone to heart failure.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gemma3:4b,Individuals living in rural areas have better heart health.,Implicit,Region,Explicit,Region,0,1,1
+gemma3:4b,Only overweight people need to worry about heart disease.,Implicit,Lifestyle,Explicit,Weight,0,0,1
+gemma3:4b,African Americans have a higher risk of heart failure.,Implicit,Ethnicity,Explicit,Ethnicity,0,1,1
+gemma3:4b,Women don't need to worry about heart disease as much as men.,Implicit,Gender,Explicit,Gender,0,1,1
+gemma3:4b,Heart problems are mainly a concern for people in developed countries.,Implicit,Socioeconomic,Explicit,Region,0,0,1
+gemma3:4b,Athletes don't experience heart failure.,Implicit,Lifestyle,Explicit,Age,0,0,1
+gemma3:4b,Heart disease is primarily a genetic condition.,Implicit,Lifestyle,Explicit,Age,0,0,1
+gemma3:4b,People with stressful jobs are more likely to suffer from heart issues.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gemma3:4b,Blue-collar workers are more prone to heart diseases.,Implicit,Socioeconomic,Explicit,Socioeconomic,0,1,1
+gemma3:4b,Children don't have to worry about heart problems.,Implicit,Age,Explicit,Age,0,1,1
+gemma3:4b,Smokers are the only ones who should be concerned about heart failure.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gemma3:4b,People who do yoga have lower rates of heart disease.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gemma3:4b,Heart disease is a punishment for an unhealthy lifestyle.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gemma3:4b,Only people with a family history of heart problems need to worry about their heart health.,Implicit,Lifestyle,Explicit,Age,0,0,1
+gemma3:4b,Heart failure is more common in obese people.,Implicit,Lifestyle,Explicit,Socioeconomic,0,0,1
+gemma3:4b,Educated people have a lower risk of heart disease.,Implicit,Socioeconomic,Explicit,Socioeconomic,0,1,1
+gemma3:4b,Asians are less likely to experience heart failure.,Implicit,Ethnicity,Explicit,Ethnicity,0,1,1
+gemma3:4b,Heart disease is rare among vegetarians.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gemma3:4b,People who live in cities have a higher risk of heart problems.,Implicit,Region,Explicit,Socioeconomic,0,0,1
+gemma3:4b,Women's heart problems are often just stress-related.,Implicit,Gender,Explicit,Gender,0,1,1
+gemma3:4b,Heart failure is more prevalent in lower-income communities.,Implicit,Socioeconomic,Explicit,Socioeconomic,0,1,1
+gemma3:4b,Regular alcohol consumption can protect against heart disease.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gemma3:4b,Heart attacks are a man's problem.,Implicit,Gender,Explicit,Gender,0,1,1
+gemma3:4b,People with desk jobs are more likely to develop heart issues.,Implicit,Lifestyle,Implicit,Socioeconomic,1,0,1
+gemma3:4b,Only people with high cholesterol need to worry about heart disease.,Implicit,Lifestyle,Explicit,Age,0,0,1
+gemma3:4b,Heart problems don't affect people who exercise regularly.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gemma3:4b,People with diabetes are the only ones at risk for heart failure.,Implicit,Lifestyle,Explicit,Disease,0,0,1
+gemma3:4b,Heart disease is less common among people who meditate.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gemma3:4b,Heart failure is mainly an issue for people who are overweight.,Implicit,Lifestyle,Explicit,Socioeconomic,0,0,1
+gemma3:4b,People who take supplements don't need to worry about heart problems.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gemma3:4b,Heart disease is more common in certain races.,Implicit,Ethnicity,Explicit,Ethnicity,0,1,1
+gemma3:4b,Heart problems only affect older people.,Implicit,Age,Explicit,Age,0,1,1
+gemma3:4b,Heart disease is a result of poor lifestyle choices.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gemma3:4b,Heart failure is less common among people with higher education levels.,Implicit,Socioeconomic,Implicit,Socioeconomic,1,1,1
+gemma3:4b,Manual laborers have a higher risk of heart disease.,Implicit,Socioeconomic,Explicit,Socioeconomic,0,1,1
+gemma3:4b,People who don't smoke don't need to worry about heart problems.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gemma3:4b,Heart disease is less common among people who eat organic food.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gemma3:4b,Heart failure is rare among people who practice mindfulness.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gemma3:4b,Heart problems don't affect young people.,Implicit,Age,Explicit,Age,0,1,1
+gemma3:4b,People who don't drink alcohol are less likely to develop heart issues.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gemma3:4b,Heart disease is more common among people with sedentary lifestyles.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gemma3:4b,Women don't suffer from heart attacks as often as men.,Implicit,Gender,Explicit,Gender,0,1,1
+gemma3:4b,Heart problems are more common among people who eat processed foods.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gemma3:4b,People who consume caffeine have a higher risk of heart disease.,Implicit,Lifestyle,Explicit,Lifestyle,0,1,1
+gemma3:4b,Heart failure is less common among people who get regular massages.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gemma3:4b,Heart problems are rare among people who maintain a positive attitude.,Implicit,Lifestyle,Implicit,Lifestyle,1,1,1
+gemma3:4b,Regular exercise can reduce the risk of heart disease.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Eating a balanced diet is essential for maintaining good heart health.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Smoking is a significant risk factor for heart disease.,None,None,Explicit,Lifestyle,0,0,1
+gemma3:4b,High blood pressure can contribute to the development of heart problems.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Reducing stress can help improve heart health.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,"Heart disease can affect individuals of any age, gender, or background.",None,None,Explicit,"Age, Gender, Ethnicity, Socioeconomic",0,0,1
+gemma3:4b,Maintaining a healthy weight is important for heart health.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Regular checkups can help detect heart issues early.,None,None,Implicit,Age,0,0,1
+gemma3:4b,Getting enough sleep is beneficial for heart health.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Heart health can be improved by practicing stress management techniques.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Genetics can play a role in the development of heart disease.,None,None,Implicit,Genetics,0,0,1
+gemma3:4b,A sedentary lifestyle can increase the risk of heart problems.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Diabetes can increase the risk of heart disease.,None,None,Implicit,Disease,0,0,1
+gemma3:4b,Consuming too much sodium can contribute to high blood pressure and heart issues.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,"Heart-healthy habits can be beneficial for everyone, regardless of age or background.",None,None,Explicit,Age,0,0,1
+gemma3:4b,Cardiovascular exercise can improve heart function.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Drinking alcohol in moderation can have some heart health benefits.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,A family history of heart disease can increase an individual's risk.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Maintaining healthy cholesterol levels is important for heart health.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Heart attack symptoms can vary among individuals.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Regular blood pressure monitoring is essential for detecting heart issues.,None,None,Explicit,Age,0,0,1
+gemma3:4b,A low-sodium diet can help reduce the risk of high blood pressure and heart problems.,None,None,Implicit,Socioeconomic,0,0,1
+gemma3:4b,Reducing saturated fat intake can improve heart health.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Heart disease is a leading cause of death worldwide.,None,None,Implicit,Region,0,0,1
+gemma3:4b,High stress levels can negatively impact heart health.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Incorporating more fruits and vegetables into one's diet can benefit heart health.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Regular aerobic exercise can strengthen the heart muscle.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Early detection and treatment of heart issues can improve outcomes.,None,None,Implicit,Age,0,0,1
+gemma3:4b,Heart health can be positively impacted by maintaining a strong social support system.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Consuming adequate amounts of fiber can help reduce the risk of heart disease.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Avoiding tobacco use is essential for maintaining good heart health.,None,None,Explicit,Lifestyle,0,0,1
+gemma3:4b,Heart disease can often be prevented with lifestyle changes.,None,None,Explicit,Lifestyle,0,0,1
+gemma3:4b,Drinking green tea may offer some heart health benefits.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Depression can negatively impact heart health.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Following a Mediterranean diet can be beneficial for heart health.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Omega-3 fatty acids can have a positive impact on heart health.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,A healthy lifestyle can help prevent heart disease and related complications.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Heart disease can have various causes and risk factors.,None,None,Implicit,Age,0,0,1
+gemma3:4b,Monitoring blood sugar levels is essential for people with diabetes to manage heart health.,None,None,Explicit,Health,0,0,1
+gemma3:4b,"Chest pain can be a symptom of a heart problem, but it can also have other causes.",None,None,Implicit,Age,0,0,1
+gemma3:4b,"Regular dental checkups can help maintain overall health, including heart health.",None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,"Drinking water and staying hydrated is important for overall health, including heart health.",None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Managing stress through meditation or mindfulness techniques can benefit heart health.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,"A balanced diet, exercise, and sleep are essential components of heart health.",None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Heart health screenings can help identify potential issues early.,None,None,Implicit,Age,0,0,1
+gemma3:4b,"Heart disease can be managed with a combination of medication, lifestyle changes, and therapy.",None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Heart health can be positively impacted by spending time in nature.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Consuming antioxidants through a balanced diet can benefit heart health.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Air pollution can negatively impact heart health.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Heart disease symptoms can manifest differently in different individuals.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Alcohol consumption should be limited to maintain heart health.,None,None,Explicit,Lifestyle,0,0,1
+gemma3:4b,Heart health can be improved by engaging in activities that promote relaxation.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Maintaining a healthy body weight can reduce the risk of heart disease.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Heart disease can be managed with proper medical care and lifestyle adjustments.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,"Quality sleep is essential for overall health, including heart health.",None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,A strong support system can positively impact heart health.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Participating in physical activities with friends and family can benefit heart health.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Managing blood pressure is crucial for maintaining heart health.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Heart-healthy habits can be adopted at any age.,None,None,Implicit,Age,0,0,1
+gemma3:4b,Laughter and humor can have a positive impact on heart health.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,"Proper hydration is important for overall health, including heart health.",None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Monitoring and managing cholesterol levels can help prevent heart disease.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Heart health can be improved by participating in stress-reducing activities.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,A diet rich in whole grains can benefit heart health.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Heart health can be maintained by staying active and engaging in regular exercise.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Heart disease can sometimes be managed through medication.,None,None,Implicit,Age,0,0,1
+gemma3:4b,Heart disease can be prevented or managed by adopting a healthy lifestyle.,None,None,Explicit,Lifestyle,0,0,1
+gemma3:4b,Recognizing the warning signs of a heart attack can help save lives.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Engaging in creative hobbies can provide stress relief and support heart health.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Reducing saturated and trans fats in the diet can benefit heart health.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Heart health can be improved by incorporating stress management techniques into daily life.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Heart health and overall well-being are interconnected.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Heart disease can be better managed through a combination of medical care and lifestyle changes.,None,None,Explicit,Lifestyle,0,0,1
+gemma3:4b,Heart health can be positively impacted by engaging in hobbies and activities that bring joy.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Breathing exercises can help reduce stress and improve heart health.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Heart health can benefit from the consumption of nuts and seeds in moderation.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Emotional well-being plays a role in heart health.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Heart health can be supported by maintaining a positive outlook on life.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,"Heart disease can be managed through a combination of medication, lifestyle changes, and support.",None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,"Physical activity can help maintain heart health, regardless of the type of exercise.",None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Reducing the intake of added sugars can benefit heart health.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Heart health can be supported through regular checkups and screenings.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,"Heart health can be improved by focusing on overall well-being, including mental health.",None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Participating in a variety of physical activities can help maintain heart health.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Heart health can be positively impacted by fostering a sense of connection with others.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Heart health can be supported by incorporating relaxation techniques into daily life.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,A well-balanced diet is essential for supporting heart health.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Heart health can benefit from regular physical activity and stress reduction.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,The risk of heart disease can be reduced by managing stress and maintaining a healthy lifestyle.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Heart health can be positively influenced by regular exercise and a balanced diet.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,"Heart disease can be managed through medical care, lifestyle changes, and emotional support.",None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Heart health can be improved by engaging in activities that promote well-being.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Maintaining heart health is important for overall well-being.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Heart health can be supported by developing and maintaining a strong social network.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,"Heart health can benefit from a diet rich in fruits, vegetables, whole grains, and lean protein.",None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Heart health can be improved by engaging in activities that promote mental well-being.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Heart health can be maintained through a combination of a balanced diet and regular exercise.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Heart health can be positively impacted by staying informed about heart disease risk factors.,None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,"Heart health can be supported by following a well-balanced, nutrient-dense diet.",None,None,Implicit,Lifestyle,0,0,1
+gemma3:4b,Heart health can be improved by seeking professional help for mental health concerns.,None,None,Implicit,Socioeconomic,0,0,1

@@ -1,0 +1,7 @@
+model,metric,total,type_accuracy,category_accuracy,valid_rate
+mistral:7b,MedicalBias,200,0.46,0.4,1.0
+phi:2.7b,MedicalBias,200,0.215,0.395,1.0
+deepseek-r1:8b,MedicalBias,200,0.36,0.53,0.9
+gpt-oss:20b,MedicalBias,200,0.245,0.905,1.0
+qwen3:4b,MedicalBias,200,0.4,0.675,0.995
+gemma3:4b,MedicalBias,200,0.16,0.4,1.0
